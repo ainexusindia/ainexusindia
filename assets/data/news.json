@@ -2,103 +2,112 @@
   "updated": "2026-09-03",
   "items": [
     {
-      "title": "Adobe acquires Indian AI startup Rilo",
-      "summary": "Adobe has acquired Rilo, an AI startup founded in 2025 by IIT Bombay alumni, in an undisclosed deal \u2014 another sign of global tech majors picking up Indian AI talent and products.",
-      "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-3-2026",
-      "source": "YourStory",
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "summary": "The high-profile startup's annual revenue run rate stands at at over $100 million.",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-03",
+      "category": "Tech",
+      "region": "Global"
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Cars24 Trims FY26 Net Loss By 19% YoY To ₹441 Cr, Revenue Slides 18%",
+      "summary": "Used car marketplace Cars24 managed to trim its net loss for the fiscal year FY26 by 18.7% to ₹441.1 Cr…",
+      "url": "https://inc42.com/buzz/cars24-trims-fy26-net-loss-by-19-yoy-to-%e2%82%b9441-cr-revenue-slides-18/",
+      "source": "Inc42",
       "date": "2026-09-03",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Noida startup YoLearn.ai raises seed round for AI tutoring in 22 Indian languages",
-      "summary": "YoLearn.ai, a voice-first AI tutoring platform aligned to CBSE, ICSE and state boards, raised a seed round led by ABP Education. Students scan a textbook code to get step-by-step help in their own language.",
-      "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-3-september-2026/",
-      "source": "StartupTalky",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing…",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Ultrahuman Bags $70 Mn To Build An Integrated Healthtech Platform",
+      "summary": "With an eye on expanding its health intelligence platform, smart ring maker Ultrahuman has raised $70 Mn (nearly ₹662 Cr)…",
+      "url": "https://inc42.com/buzz/ultrahuman-bags-70-mn-to-build-an-integrated-healthtech-platform/",
+      "source": "Inc42",
       "date": "2026-09-03",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Creedom raises Rs 4.1 crore for its AI growth coach for content creators",
-      "summary": "Creedom, an AI-powered growth coach aimed at content creators, closed a seed round backed by a mix of corporate executives and startup founders.",
-      "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-2-2026",
-      "source": "YourStory",
-      "date": "2026-09-02",
-      "category": "Tech",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "source": "The Verge AI",
+      "date": "2026-09-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "RentoMojo Files RHP, Trims OFS Component To 2.7 Cr Shares",
+      "summary": "Months after receiving the markets regulator’s nod for its IPO, furniture and appliance rental startup RentoMojo has filed its red…",
+      "url": "https://inc42.com/buzz/rentomojo-files-rhp-trims-ofs-to-2-7-cr-shares/",
+      "source": "Inc42",
+      "date": "2026-09-03",
+      "category": "General",
       "region": "India"
     },
     {
-      "title": "New York City limits AI tools for students through grade 8",
-      "summary": "New York City has introduced restrictions on AI tool use for younger students, adding to a growing national debate on how classrooms should handle AI as it becomes more common in everyday life.",
-      "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
-      "source": "Tech Startups",
-      "date": "2026-09-02",
+      "title": "SoftBank Offloads Meesho Stake Worth ₹1,650 Cr",
+      "summary": "After paring stake in Lenskart, global tech investor SoftBank offloaded 8 Cr equity shares in ecommerce platform Meesho, representing a…",
+      "url": "https://inc42.com/buzz/softbank-offloads-meesho-stake-worth-%e2%82%b91650-cr/",
+      "source": "Inc42",
+      "date": "2026-09-03",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-03",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Sony Music and Warner Chappell sue Anthropic over song lyrics",
-      "summary": "Two major music publishers have filed a lawsuit alleging an AI model was trained on copyrighted song lyrics without permission, seeking significant damages per song \u2014 the latest in a wave of AI copyright cases.",
-      "url": "https://aitoolsrecap.com/Blog/AINewsSeptember2026.aspx",
-      "source": "AI Tools Recap",
-      "date": "2026-09-02",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Apple names John Ternus as its new CEO",
-      "summary": "Apple has a new chief executive, taking charge of one of the only major tech companies without its own frontier AI model \u2014 a gap likely to shape his early priorities.",
-      "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
-      "source": "Tech Startups",
-      "date": "2026-09-01",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "EU begins treating ChatGPT under search-engine rules",
-      "summary": "European regulators have started applying search-engine-style oversight to ChatGPT, adding a new layer of accountability for how AI chatbots surface information online.",
-      "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
-      "source": "Tech Startups",
-      "date": "2026-09-01",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Microsoft 365 outage traced to a shared authentication issue",
-      "summary": "A widespread outage hit Exchange Online, Teams, SharePoint, OneDrive and Microsoft 365 Copilot this week, with Microsoft pointing to a core authentication problem shared across products \u2014 a reminder of how interconnected cloud tools have become.",
-      "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
-      "source": "Tech Startups",
-      "date": "2026-09-01",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Anthropic secures $35B in Nvidia-backed compute capacity in Texas",
-      "summary": "A major new compute deal underscores how much raw processing power today's AI race demands \u2014 and how central chip supply has become to every AI lab's roadmap.",
-      "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
-      "source": "Tech Startups",
-      "date": "2026-09-01",
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "source": "The Verge AI",
+      "date": "2026-09-03",
       "category": "Tech",
       "region": "Global"
     },
     {
-      "title": "Critical Langflow vulnerability actively exploited by attackers",
-      "summary": "Security researchers report active attacks on a serious flaw (CVE-2026-0768) in Langflow, a popular open-source framework for building AI agents, with attackers attempting to steal API keys and cloud credentials from exposed servers.",
-      "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
-      "source": "Tech Startups",
-      "date": "2026-09-02",
-      "category": "Tech",
-      "region": "Global"
-    },
-    {
-      "title": "Google tightens usage limits on Gemini Notebook",
-      "summary": "Google is rolling out compute-based usage limits on Gemini Notebook, following similar moves by other AI vendors as demand for AI tools continues to outpace available capacity.",
-      "url": "https://aitoolsrecap.com/Blog/AINewsSeptember2026.aspx",
-      "source": "AI Tools Recap",
-      "date": "2026-09-02",
-      "category": "Tech",
-      "region": "Global"
+      "title": "BITS Pilani-incubated Apollyon Dynamics sets new speed record in India with 498 km/h interceptor drone",
+      "summary": "Evolving from a Rs 2 lakh student grant to a defence-tech breakthrough, the startup’s electric interceptor drone Ahuti Mk II is South Asia’s fastest multirotor UAV.",
+      "url": "https://yourstory.com/2026/09/bits-pilani-incubated-apollyon-dynamics-sets-india-record-with-498-kmh-interceptor-drone",
+      "source": "YourStory",
+      "date": "2026-09-03",
+      "category": "General",
+      "region": "India"
     }
   ]
 }

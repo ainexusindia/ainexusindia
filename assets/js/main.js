@@ -63,9 +63,14 @@ function initPulse() {
 function renderPulse() {
   const grid = document.getElementById('pulse-grid');
   if (!grid) return;
-  const items = PULSE_FILTER === 'All'
-    ? PULSE_ITEMS
-    : PULSE_ITEMS.filter(i => (i.category || 'General') === PULSE_FILTER);
+  let items;
+  if (PULSE_FILTER === 'All') {
+    items = PULSE_ITEMS;
+  } else if (PULSE_FILTER === 'India') {
+    items = PULSE_ITEMS.filter(i => i.region === 'India');
+  } else {
+    items = PULSE_ITEMS.filter(i => (i.category || 'General') === PULSE_FILTER);
+  }
 
   if (!items.length) {
     grid.innerHTML = '<div class="pulse-empty">No stories in this view yet \u2014 try \u201CAll\u201D or check back tomorrow.</div>';
@@ -74,9 +79,12 @@ function renderPulse() {
 
   grid.innerHTML = items.map(item => {
     const tagClass = item.category === 'Tech' ? 'pulse-tag tag-tech' : 'pulse-tag';
+    const indiaBadge = item.region === 'India' ? '<span class="pulse-tag tag-india">\uD83C\uDDEE\uD83C\uDDF3 India</span>' : '';
     return `
       <article class="pulse-card">
-        <span class="${tagClass}">${escapeHtml(item.category || 'General')}</span>
+        <div class="pulse-tags">
+          <span class="${tagClass}">${escapeHtml(item.category || 'General')}</span>${indiaBadge}
+        </div>
         <h3>${escapeHtml(item.title)}</h3>
         <p>${escapeHtml(item.summary)}</p>
         <div class="pulse-meta">

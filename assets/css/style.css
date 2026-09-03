@@ -333,6 +333,7 @@ section { padding: 68px 0; scroll-margin-top: 76px; }
   flex-direction: column;
   gap: 10px;
 }
+.pulse-tags { display: flex; gap: 6px; flex-wrap: wrap; }
 .pulse-tag {
   align-self: flex-start;
   font-size: 0.72rem;
@@ -343,6 +344,7 @@ section { padding: 68px 0; scroll-margin-top: 76px; }
   color: var(--jade);
 }
 .pulse-tag.tag-tech { background: rgba(232, 163, 61, 0.16); color: var(--marigold-dark); }
+.pulse-tag.tag-india { background: rgba(34, 55, 100, 0.12); color: var(--indigo-700); }
 .pulse-card h3 { font-size: 1rem; margin-bottom: 2px; }
 .pulse-card p { font-size: 0.92rem; color: var(--ink-soft); margin-bottom: 0; }
 .pulse-meta {

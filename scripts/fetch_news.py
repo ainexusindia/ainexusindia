@@ -4,7 +4,8 @@ AI Nexus India — daily AI news fetcher.
 
 Pulls fresh AI-related headlines from a handful of free, public RSS feeds
 (no API key required), lightly classifies each story as "General" (readable
-by anyone) or "Tech" (more technical), and writes assets/data/news.json.
+by anyone) or "Tech" (more technical), tags it "Global" or "India" by source,
+and writes assets/data/news.json.
 
 Run by .github/workflows/daily-ai-news.yml on a daily schedule.
 """
@@ -31,13 +32,22 @@ FEEDS = [
     ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
 ]
 
+# Indian AI/tech sources — tagged region "India" so the site can filter to them.
+INDIA_FEEDS = [
+    ("Analytics India Magazine", "https://analyticsindiamag.com/feed/"),
+    ("Inc42", "https://inc42.com/feed/"),
+    ("MediaNama", "https://www.medianama.com/feed/"),
+    ("YourStory", "https://yourstory.com/feed"),
+]
+
 # Fallback if the feeds above are briefly unreachable: Google News RSS search.
 FALLBACK_FEED = (
     "Google News",
     "https://news.google.com/rss/search?q=artificial%20intelligence%20when:1d&hl=en-IN&gl=IN&ceid=IN:en",
 )
 
-MAX_ITEMS = 10
+MAX_GLOBAL_ITEMS = 7
+MAX_INDIA_ITEMS = 5
 OUTPUT_PATH = Path(__file__).resolve().parent.parent / "assets" / "data" / "news.json"
 
 # Rough signal words for a "Tech" (more technical) vs "General" (everyday) tag.
@@ -72,7 +82,7 @@ def entry_date(entry):
     return datetime.now(timezone.utc)
 
 
-def fetch_feed(name, url):
+def fetch_feed(name, url, region="Global"):
     items = []
     try:
         req = Request(url, headers={"User-Agent": "AINexusIndiaNewsBot/1.0"})
@@ -92,6 +102,7 @@ def fetch_feed(name, url):
                 "source": name,
                 "date": entry_date(entry).strftime("%Y-%m-%d"),
                 "category": classify(title, summary),
+                "region": region,
                 "_sort": entry_date(entry),
             })
     except Exception as exc:  # noqa: BLE001 — keep the job alive on a single feed failure
@@ -112,17 +123,27 @@ def dedupe(items):
 
 
 def main():
-    all_items = []
+    global_items = []
     for name, url in FEEDS:
         print(f"Fetching {name}...")
-        all_items.extend(fetch_feed(name, url))
+        global_items.extend(fetch_feed(name, url, region="Global"))
 
-    if not all_items:
+    india_items = []
+    for name, url in INDIA_FEEDS:
+        print(f"Fetching {name}...")
+        india_items.extend(fetch_feed(name, url, region="India"))
+
+    if not global_items and not india_items:
         print("Primary feeds returned nothing, trying fallback...")
-        all_items.extend(fetch_feed(*FALLBACK_FEED))
+        global_items.extend(fetch_feed(*FALLBACK_FEED, region="Global"))
 
+    global_items.sort(key=lambda i: i["_sort"], reverse=True)
+    india_items.sort(key=lambda i: i["_sort"], reverse=True)
+    global_items = dedupe(global_items)[:MAX_GLOBAL_ITEMS]
+    india_items = dedupe(india_items)[:MAX_INDIA_ITEMS]
+
+    all_items = global_items + india_items
     all_items.sort(key=lambda i: i["_sort"], reverse=True)
-    all_items = dedupe(all_items)[:MAX_ITEMS]
     for item in all_items:
         item.pop("_sort", None)
 

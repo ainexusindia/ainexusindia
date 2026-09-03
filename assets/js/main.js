@@ -184,9 +184,16 @@ const NEXI_KB = [
   }
 ];
 
-const NEXI_FALLBACK = 'I don\u2019t have a specific answer for that yet \u2014 I\u2019m a simple guide-bot, not a full AI model. Try asking about AI, cyber security, careers, computer education, or today\u2019s AI news, or email hello.manasis@gmail.com for anything more specific.';
+const NEXI_FALLBACK_RULEBASED = 'I don\u2019t have a specific answer for that yet \u2014 I\u2019m a simple guide-bot, not a full AI model. Try asking about AI, cyber security, careers, computer education, or today\u2019s AI news, or email hello.manasis@gmail.com for anything more specific.';
+
+const NEXI_FALLBACK_LIVE_ERROR = 'Sorry, I\u2019m having trouble reaching the AI service right now \u2014 please try again in a moment, or email hello.manasis@gmail.com for anything urgent.';
 
 const NEXI_SUGGESTIONS = ['What is Generative AI?', 'Show today\u2019s AI news', 'Career tips for QA testing', 'Is this free?'];
+
+// Set this to your deployed Cloudflare Worker URL to switch Nexi from the
+// built-in rule-based guide to a live AI model. See cloudflare-worker/nexi-worker.js
+// and README-DEPLOY.md for setup. Leave blank ('') to keep the free, no-setup mode.
+const NEXI_API_ENDPOINT = '';
 
 function initNexi() {
   const launcher = document.getElementById('nexi-launcher');
@@ -198,6 +205,14 @@ function initNexi() {
   if (!launcher || !panel || !form) return;
 
   let greeted = false;
+  let nexiHistory = [];
+
+  const disclaimerEl = document.getElementById('nexi-disclaimer');
+  if (disclaimerEl) {
+    disclaimerEl.textContent = NEXI_API_ENDPOINT
+      ? 'Nexi is powered by an AI model \u2014 replies are AI-generated and may occasionally be inaccurate.'
+      : 'Nexi is a simple guide-bot built into this page \u2014 not a live AI model.';
+  }
 
   launcher.addEventListener('click', () => {
     const open = panel.classList.toggle('open');
@@ -265,6 +280,33 @@ function initNexi() {
     body.appendChild(typing);
     body.scrollTop = body.scrollHeight;
 
+    if (NEXI_API_ENDPOINT) {
+      fetch(NEXI_API_ENDPOINT, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message: text, history: nexiHistory })
+      })
+        .then(res => {
+          if (!res.ok) throw new Error('Nexi API error: ' + res.status);
+          return res.json();
+        })
+        .then(data => {
+          typing.remove();
+          if (data && data.reply) {
+            nexiHistory.push({ role: 'user', content: text });
+            nexiHistory.push({ role: 'assistant', content: data.reply });
+            addBotMessage(data.reply);
+          } else {
+            addBotMessage(NEXI_FALLBACK_LIVE_ERROR, NEXI_SUGGESTIONS);
+          }
+        })
+        .catch(() => {
+          typing.remove();
+          addBotMessage(NEXI_FALLBACK_LIVE_ERROR, NEXI_SUGGESTIONS);
+        });
+      return;
+    }
+
     setTimeout(() => {
       typing.remove();
       const q = text.toLowerCase();
@@ -281,7 +323,7 @@ function initNexi() {
       if (best) {
         addBotMessage(best.a);
       } else {
-        addBotMessage(NEXI_FALLBACK, NEXI_SUGGESTIONS);
+        addBotMessage(NEXI_FALLBACK_RULEBASED, NEXI_SUGGESTIONS);
       }
     }, 500 + Math.random() * 400);
   }

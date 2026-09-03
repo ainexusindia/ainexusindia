@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "items": [
+    {
+      "title": "Adobe acquires Indian AI startup Rilo",
+      "summary": "Adobe has acquired Rilo, an AI startup founded in 2025 by IIT Bombay alumni, in an undisclosed deal \u2014 another sign of global tech majors picking up Indian AI talent and products.",
+      "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-3-2026",
+      "source": "YourStory",
+      "date": "2026-09-03",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Noida startup YoLearn.ai raises seed round for AI tutoring in 22 Indian languages",
+      "summary": "YoLearn.ai, a voice-first AI tutoring platform aligned to CBSE, ICSE and state boards, raised a seed round led by ABP Education. Students scan a textbook code to get step-by-step help in their own language.",
+      "url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-3-september-2026/",
+      "source": "StartupTalky",
+      "date": "2026-09-03",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Creedom raises Rs 4.1 crore for its AI growth coach for content creators",
+      "summary": "Creedom, an AI-powered growth coach aimed at content creators, closed a seed round backed by a mix of corporate executives and startup founders.",
+      "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-2-2026",
+      "source": "YourStory",
+      "date": "2026-09-02",
+      "category": "Tech",
+      "region": "India"
+    },
     {
       "title": "New York City limits AI tools for students through grade 8",
       "summary": "New York City has introduced restrictions on AI tool use for younger students, adding to a growing national debate on how classrooms should handle AI as it becomes more common in everyday life.",
       "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
       "source": "Tech Startups",
       "date": "2026-09-02",
-      "category": "General"
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "Sony Music and Warner Chappell sue Anthropic over song lyrics",
@@ -15,7 +43,8 @@
       "url": "https://aitoolsrecap.com/Blog/AINewsSeptember2026.aspx",
       "source": "AI Tools Recap",
       "date": "2026-09-02",
-      "category": "General"
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "Apple names John Ternus as its new CEO",
@@ -23,7 +52,8 @@
       "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
       "source": "Tech Startups",
       "date": "2026-09-01",
-      "category": "General"
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "EU begins treating ChatGPT under search-engine rules",
@@ -31,7 +61,8 @@
       "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
       "source": "Tech Startups",
       "date": "2026-09-01",
-      "category": "General"
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "Microsoft 365 outage traced to a shared authentication issue",
@@ -39,7 +70,8 @@
       "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
       "source": "Tech Startups",
       "date": "2026-09-01",
-      "category": "General"
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "Anthropic secures $35B in Nvidia-backed compute capacity in Texas",
@@ -47,7 +79,8 @@
       "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
       "source": "Tech Startups",
       "date": "2026-09-01",
-      "category": "Tech"
+      "category": "Tech",
+      "region": "Global"
     },
     {
       "title": "Critical Langflow vulnerability actively exploited by attackers",
@@ -55,7 +88,8 @@
       "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
       "source": "Tech Startups",
       "date": "2026-09-02",
-      "category": "Tech"
+      "category": "Tech",
+      "region": "Global"
     },
     {
       "title": "Google tightens usage limits on Gemini Notebook",
@@ -63,7 +97,8 @@
       "url": "https://aitoolsrecap.com/Blog/AINewsSeptember2026.aspx",
       "source": "AI Tools Recap",
       "date": "2026-09-02",
-      "category": "Tech"
+      "category": "Tech",
+      "region": "Global"
     }
   ]
 }

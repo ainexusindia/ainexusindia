@@ -1,50 +1,86 @@
 {
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "items": [
     {
-      "title": "Special Newsletter: 5 Talking Points—August Edition",
-      "summary": "Five key August talking points on child safety, Meta’s teen protections, facial recognition, Google Search rules, and the regulatory gaps shaping India’s technology policy debate. The post Special Newsletter: 5 Talking…",
-      "url": "https://www.medianama.com/2026/09/223-special-newsletter-5-talking-points-august-edition/",
-      "source": "MediaNama",
-      "date": "2026-09-05",
-      "category": "Tech",
-      "region": "India"
-    },
-    {
-      "title": "NoPaperForms files updated draft papers for IPO; eyes Rs 375 Cr via fresh issue",
-      "summary": "Education tech infrastructure firm NoPaperForms is set to tap the public markets with a Rs 375 crore fresh issue, alongside an OFS of 3.84 crore shares.",
-      "url": "https://yourstory.com/2026/09/nopaperforms-updated-draft-papers-ipo-rs-375-cr-fresh-issue",
+      "title": "NCLT stays disposal of Byju's K3-linked assets auctioned for Rs 16 Cr",
+      "summary": "The Bengaluru-based bench of the NCLT has put a hold on any further disposal of Byju's K3 Education's assets till the next hearing on September 21 amid allegations that assets worth around Rs 150 crore were sold for…",
+      "url": "https://yourstory.com/2026/09/nclt-stays-disposal-of-byjus-k3-linked-assets-auctioned-for-rs-16-cr-flags-valuation-concern",
       "source": "YourStory",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "From Ultrahuman To Comet — Indian Startups Raised Over $177 Mn This Week",
-      "summary": "India’s startup funding market opened September on a softer note, extending its decline for a second straight week. Between August…",
-      "url": "https://inc42.com/buzz/from-ultrahuman-to-comet-indian-startups-raised-over-177-mn-this-week/",
+      "title": "IPO action intensifies as 11 cos target Rs 7,055 Cr next week",
+      "summary": "The companies tapping the primary market include real estate developers, engineering and manufacturing firms, a payments and identity solutions provider, a specialty chemicals manufacturer and an online rental platform.",
+      "url": "https://yourstory.com/2026/09/ipo-action-intensifies-as-11-cos-target-rs-7055-cr-next-week",
+      "source": "YourStory",
+      "date": "2026-09-06",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Ola Electric clears Rs 1,500 Cr fund raise; COO quits",
+      "summary": "Ola Electric’s board approved a fund raise of up to Rs 1,500 crore, while Shradha Sharma and Manoj Kumar Kohli were approved for re-appointment as independent directors.",
+      "url": "https://yourstory.com/2026/09/ola-electric-clears-rs-1500-cr-fund-raise-coo-quits",
+      "source": "YourStory",
+      "date": "2026-09-06",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Manipal Payment IPO price band fixed at Rs 322-339; issue to open on Sep 9",
+      "summary": "The IPO comprises a fresh issue of equity shares aggregating to Rs 320 crore, along with an Offer for Sale (OFS) of up to 1.43 crore equity shares worth Rs 485 crore by promoter Manipal Technologies.",
+      "url": "https://yourstory.com/2026/09/manipal-payment-ipo-price-band-fixed-rs-322-339-issue-to-open-sep-9",
+      "source": "YourStory",
+      "date": "2026-09-06",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Flipkart’s Next Video Commerce Bet: Microdramas",
+      "summary": "What if the next thing you buy on Flipkart starts with a love story, a cliffhanger or a 90-second drama?…",
+      "url": "https://inc42.com/features/flipkarts-next-video-commerce-bet-microdramas/",
       "source": "Inc42",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "One impulse, many manifestations: Indian Habitat Centre exhibition celebrates artistic creativity",
-      "summary": "In this photo essay, we showcase artistic highlights from the ‘One | Many’ exhibition in New Delhi.",
-      "url": "https://yourstory.com/2026/09/art-exhibition-creativity-india-habitat-centre-photography",
-      "source": "YourStory",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch AI",
       "date": "2026-09-05",
       "category": "General",
-      "region": "India"
+      "region": "Global"
     },
     {
-      "title": "Microsoft’s Puneet Chandok calls learning AI a ‘full contact body sport; Shaping the new tech order",
-      "summary": "In an exclusive interaction with YourStory, Microsoft India & South Asia President Puneet Chandok outlines a practical blueprint for how knowledge workers and enterprises can navigate rapid AI adoption.",
-      "url": "https://yourstory.com/2026/09/microsofts-puneet-chandok-on-navigating-the-modern-tech-race",
-      "source": "YourStory",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-05",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "TechCrunch AI",
       "date": "2026-09-05",
       "category": "Tech",
-      "region": "India"
+      "region": "Global"
+    },
+    {
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge AI",
+      "date": "2026-09-05",
+      "category": "Tech",
+      "region": "Global"
     },
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -68,42 +104,6 @@
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
       "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-04",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Architecting memory and storage in the AI era",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of…",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "MIT Technology Review",
-      "date": "2026-09-04",
-      "category": "Tech",
-      "region": "Global"
-    },
-    {
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "source": "The Verge AI",
-      "date": "2026-09-04",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "What will Apple’s John Ternus era look like?",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s…",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-04",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
       "source": "TechCrunch AI",
       "date": "2026-09-04",
       "category": "General",

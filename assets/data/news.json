@@ -1,50 +1,68 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "items": [
     {
-      "title": "Quick commerce reshapes online shopping this festive season",
-      "summary": "The expansion in the range of products offered by quick commerce is expected the reshape online shopping this festive season.",
-      "url": "https://yourstory.com/2026/09/quick-commerce-reshapes-online-shopping-this-festive-season",
-      "source": "YourStory",
-      "date": "2026-09-07",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Decoding India’s new-age consumer: Cashfree, Consumer Collective by Atrium to host The Consumer Circle in Gurugram",
-      "summary": "Cashfree and Consumer Collective by Atrium are bringing together a select group of founders, operators, and investors in Gurugram on September 20 for The Consumer Circle, a closed-door discussion created to put…",
-      "url": "https://yourstory.com/2026/09/decoding-indias-consumer-cashfree-consumer-collective-atrium-consumer-circle-gurugram-",
-      "source": "YourStory",
-      "date": "2026-09-07",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Delhi govt holds roundtable with startup leaders to strengthen policy",
-      "summary": "The Delhi government aims to support more than 10,000 startups with the potential to generate over 4 lakh jobs.",
-      "url": "https://yourstory.com/2026/09/delhi-govt-holds-roundtable-with-startup-leaders-to-strengthen-policy",
-      "source": "YourStory",
-      "date": "2026-09-07",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "ISRO Rules Out Privatisation, Says Spacetech Startups Will Expand Ecosystem",
-      "summary": "The Indian Space Research Organisation (ISRO) has dismissed concerns that the Centre’s push to expand private participation in the space…",
-      "url": "https://inc42.com/buzz/isro-rules-out-privatisation-says-spacetech-startups-will-expand-ecosystem/",
+      "title": "ESDS Shares Triple From IPO Price, Hit 20% Upper Circuit For Third Straight Session",
+      "summary": "Shares of enterprise cloud and AI company ESDS Software Solution hit the 20% upper circuit for the third consecutive session…",
+      "url": "https://inc42.com/buzz/esds-shares-triple-from-ipo-price-hit-20-upper-circuit-for-third-straight-session/",
       "source": "Inc42",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Explainer: Meta is testing AI agent integration on WhatsApp. Here is what it means",
-      "summary": "Meta is developing support for third-party AI agents on WhatsApp, allowing users to connect up to five agents while introducing restrictions around encryption, chat access and data retention. The post Explainer: Meta is…",
-      "url": "https://www.medianama.com/2026/09/223-meta-ai-agent-whatsapp/",
+      "title": "Times of India publisher partners with OpenAI, but financial terms remain undisclosed",
+      "summary": "BCCL has partnered with OpenAI to bring excerpts and summaries of its journalism to ChatGPT, with attribution and links to original articles. The post Times of India publisher partners with OpenAI, but financial terms…",
+      "url": "https://www.medianama.com/2026/09/223-bccl-openai-content-partnership-toi/",
       "source": "MediaNama",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "category": "General",
       "region": "India"
+    },
+    {
+      "title": "Fundly.ai Raises $4 Mn To Scale Pharma Payments, Commerce Infra",
+      "summary": "B2B pharma distribution startup Fundly.ai has raised $4 Mn (about ₹38 Cr) in a pre-Series A funding round co-led by…",
+      "url": "https://inc42.com/buzz/fundly-ai-raises-4-mn-to-scale-pharma-payments-commerce-infra/",
+      "source": "Inc42",
+      "date": "2026-09-08",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "The Ground Reality For The Gig Workers Powering India’s Instant Help Boom",
+      "summary": "It’s festive season again and in Bengaluru’s upscale neighbourhoods, the sight of women in colourful uniforms — black, purple, pink…",
+      "url": "https://inc42.com/features/the-ground-reality-for-the-gig-workers-powering-indias-instant-help-boom/",
+      "source": "Inc42",
+      "date": "2026-09-08",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "W Health Ventures closes Fund II at Rs 700 Cr",
+      "summary": "W Health Ventures has closed its second fund at Rs 700 crore, exceeding its Rs 630 crore target, as the healthcare-focused VC firm looks to invest in 8-10 startups over the next four years.",
+      "url": "https://yourstory.com/2026/09/w-health-ventures-closes-fund-ii-at-rs-700-crore",
+      "source": "YourStory",
+      "date": "2026-09-08",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-07",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is…",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "source": "MIT Technology Review",
+      "date": "2026-09-07",
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
@@ -89,24 +107,6 @@
       "source": "TechCrunch AI",
       "date": "2026-09-05",
       "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-05",
-      "category": "Tech",
-      "region": "Global"
-    },
-    {
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge AI",
-      "date": "2026-09-05",
-      "category": "Tech",
       "region": "Global"
     }
   ]

@@ -1,113 +1,113 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "items": [
     {
-      "title": "From Pixxel To Swish — Indian Startups Raised Over $321.9 Mn This Week",
-      "summary": "Startup funding activity rebounded back sharply in the second week of September. Between September 7 and September 11, Indian startups…",
-      "url": "https://inc42.com/buzz/from-pixxel-to-swish-indian-startups-raised-over-321-9-mn-this-week/",
+      "title": "Swish Buys Itself More Time At The Quick Food Table",
+      "summary": "In August 2024, Inc42 asked whether Swish could pull off what Zomato couldn’t. Two years on, the question has turned…",
+      "url": "https://inc42.com/features/swish-buys-itself-more-time-at-the-quick-food-table/",
       "source": "Inc42",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Charm, warmth and design: Inside Slohh by Roach and Hilton’s Curio Collection",
-      "summary": "In this photo essay, we showcase the Hilton Curio Collections’ first property in India, Slohh by Roach in Bengaluru.",
-      "url": "https://yourstory.com/2026/09/slohh-by-roach-curio-collection-by-hilton-hotel-design-photography",
+      "title": "Health, AI, growth: test your business creativity with Edition 249 of our weekly quiz!",
+      "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 249th quiz. Ready?",
+      "url": "https://yourstory.com/2026/09/health-ai-growth-business-creativity-entrepreneur-quiz",
       "source": "YourStory",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "China’s AI labs siphoned Claude’s intelligence?",
-      "summary": "Anthropic’s report reveals that major Chinese AI developers operated illicit proxy networks to harvest Claude’s reasoning capabilities, unintentionally leaking sensitive military, government, and corporate secrets in…",
-      "url": "https://yourstory.com/2026/09/chinas-ai-labs-siphoned-claudes-intelligence",
+      "title": "Natural seasons, human seasons: An exploration by artist Meena Das Narayan",
+      "summary": "In this photo essay, we showcase a range of artworks by artist Meena Das Narayan, along with insights from her creative journey.",
+      "url": "https://yourstory.com/2026/09/seasons-life-art-exhibition-meena-das-narayan-photography",
       "source": "YourStory",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "PM Modi wants BRICS to help 100 startups scale yearly; Shuddh Swad turns Bihari thekua into a Rs 1 Cr D2C business",
+      "summary": "The New Delhi Declaration also proposes better access to finance for MSMEs, including through credit assessment frameworks and an invoice discounting mechanism.",
+      "url": "https://yourstory.com/2026/09/pm-modi-wants-brics-to-help-100-startups-scale-yearly",
+      "source": "YourStory",
+      "date": "2026-09-13",
       "category": "Tech",
       "region": "India"
     },
     {
-      "title": "Process and precision: Artisera exhibition showcases contemporary Indian printmaking",
-      "summary": "In this photo essay, we showcase artistic highlights from a printmaking exhibition at Bengaluru’s Artisera gallery.",
-      "url": "https://yourstory.com/2026/09/artisera-exhibition-printmaking-creativity-photography",
-      "source": "YourStory",
-      "date": "2026-09-12",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-11",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-11",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-11",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack.…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
       "source": "The Verge AI",
-      "date": "2026-09-11",
-      "category": "Tech",
-      "region": "Global"
-    },
-    {
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-11",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive…",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Technology Review",
-      "date": "2026-09-11",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Accel Offloads ₹156 Cr Stake In BlackBuck Via Block Deal",
-      "summary": "Early backer Accel India yesterday sold 27 Lakh shares of logistics giant BlackBuck via an open-market transaction for ₹155.5 Cr.…",
-      "url": "https://inc42.com/buzz/accel-offloads-%e2%82%b9156-cr-stake-in-blackbuck-via-a-block-deal/",
+      "title": "PM Modi Bats For A Cross-Border Corridor For BRICS Startups",
+      "summary": "Prime Minister (PM) Narendra Modi has urged the BRICS (Brazil, Russia, India, China and South Africa) nations to set up…",
+      "url": "https://inc42.com/buzz/pm-modi-bats-for-a-cross-border-corridor-for-brics-startups/",
       "source": "Inc42",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "category": "General",
       "region": "India"
+    },
+    {
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "source": "The Verge AI",
+      "date": "2026-09-12",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-12",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-12",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "source": "The Verge AI",
+      "date": "2026-09-12",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Trump is giving data centers a pass to pollute",
+      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "source": "The Verge AI",
+      "date": "2026-09-12",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "OpenAI just wants to win",
+      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "source": "The Verge AI",
+      "date": "2026-09-12",
+      "category": "General",
+      "region": "Global"
     }
   ]
 }

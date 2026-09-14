@@ -1,41 +1,77 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "items": [
     {
-      "title": "Swish Buys Itself More Time At The Quick Food Table",
-      "summary": "In August 2024, Inc42 asked whether Swish could pull off what Zomato couldn’t. Two years on, the question has turned…",
-      "url": "https://inc42.com/features/swish-buys-itself-more-time-at-the-quick-food-table/",
-      "source": "Inc42",
-      "date": "2026-09-13",
+      "title": "FITT Forward 2026: Who will drive India’s Deep-Tech future?",
+      "summary": "Can India move from innovating to owning the technologies of the future? FITT Forward 2026 brought founders, investors and industry leaders together to explore it.",
+      "url": "https://yourstory.com/2026/09/fitt-forward-2026-iit-delhi-india-technology-innovation",
+      "source": "YourStory",
+      "date": "2026-09-14",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Health, AI, growth: test your business creativity with Edition 249 of our weekly quiz!",
-      "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 249th quiz. Ready?",
-      "url": "https://yourstory.com/2026/09/health-ai-growth-business-creativity-entrepreneur-quiz",
-      "source": "YourStory",
-      "date": "2026-09-13",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Natural seasons, human seasons: An exploration by artist Meena Das Narayan",
-      "summary": "In this photo essay, we showcase a range of artworks by artist Meena Das Narayan, along with insights from her creative journey.",
-      "url": "https://yourstory.com/2026/09/seasons-life-art-exhibition-meena-das-narayan-photography",
-      "source": "YourStory",
-      "date": "2026-09-13",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "PM Modi wants BRICS to help 100 startups scale yearly; Shuddh Swad turns Bihari thekua into a Rs 1 Cr D2C business",
-      "summary": "The New Delhi Declaration also proposes better access to finance for MSMEs, including through credit assessment frameworks and an invoice discounting mechanism.",
-      "url": "https://yourstory.com/2026/09/pm-modi-wants-brics-to-help-100-startups-scale-yearly",
-      "source": "YourStory",
-      "date": "2026-09-13",
+      "title": "NPCI’s profit declines 32% to Rs 989 crore in FY26 as BHIM loss widens",
+      "summary": "Amidst BHIM's loss widening 5.7x from Rs 68 cr to Rs 390 cr in FY26, NPCI has reported a 32% drop in its profit to Rs 989 cr as marketing costs increased 27% & revenue from operations only rose 22%. The post NPCI’s…",
+      "url": "https://www.medianama.com/2026/09/223-npci-profit-989-cr-fy26-bhim-loss/",
+      "source": "MediaNama",
+      "date": "2026-09-14",
       "category": "Tech",
       "region": "India"
+    },
+    {
+      "title": "AI could be used for live market surveillance, but no tools in market: NSE at GFF 2026",
+      "summary": "AI could help regulators detect abnormal trading patterns faster, but SEBI says human judgement must remain central. The post AI could be used for live market surveillance, but no tools in market: NSE at GFF 2026…",
+      "url": "https://www.medianama.com/2026/09/223-nse-ai-market-surveillance-bse-sebi-gff/",
+      "source": "MediaNama",
+      "date": "2026-09-14",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Anthropic wants independent evaluators inside frontier AI labs; OpenAI agrees",
+      "summary": "Anthropic CEO Dario Amodei called for slowing frontier AI development through independent evaluation, common safety standards and international coordination, with backing from OpenAI and Elon Musk. The post Anthropic…",
+      "url": "https://www.medianama.com/2026/09/223-anthropic-evaluators-frontier-ai-labs/",
+      "source": "MediaNama",
+      "date": "2026-09-14",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "RBI draft says banks must lift cyber-fraud holds in 60 days — unless police say otherwise",
+      "summary": "RBI's draft cyber-fraud procedure regulates bank-initiated holds but leaves police-directed account freezes outside its stated 60-day limit. The post RBI draft says banks must lift cyber-fraud holds in 60 days — unless…",
+      "url": "https://www.medianama.com/2026/09/223-rbi-cyber-fraud-account-freeze-rules/",
+      "source": "MediaNama",
+      "date": "2026-09-14",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge AI",
+      "date": "2026-09-13",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-13",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-13",
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "OpenAI’s rogue AI tried to hack another company in May",
@@ -45,15 +81,6 @@
       "date": "2026-09-12",
       "category": "General",
       "region": "Global"
-    },
-    {
-      "title": "PM Modi Bats For A Cross-Border Corridor For BRICS Startups",
-      "summary": "Prime Minister (PM) Narendra Modi has urged the BRICS (Brazil, Russia, India, China and South Africa) nations to set up…",
-      "url": "https://inc42.com/buzz/pm-modi-bats-for-a-cross-border-corridor-for-brics-startups/",
-      "source": "Inc42",
-      "date": "2026-09-12",
-      "category": "General",
-      "region": "India"
     },
     {
       "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
@@ -78,33 +105,6 @@
       "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
       "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
       "source": "TechCrunch AI",
-      "date": "2026-09-12",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "source": "The Verge AI",
-      "date": "2026-09-12",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Trump is giving data centers a pass to pollute",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "source": "The Verge AI",
-      "date": "2026-09-12",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "OpenAI just wants to win",
-      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "source": "The Verge AI",
       "date": "2026-09-12",
       "category": "General",
       "region": "Global"

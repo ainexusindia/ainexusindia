@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "items": [
     {
-      "title": "Stored in Hyderabad, answered elsewhere? What Microsoft’s ‘data residency’ promise covers for AI",
-      "summary": "Microsoft says its Hyderabad cloud can host sensitive workloads in India, but AI prompts may still be processed abroad, depending on service availability and the deployment option customers choose. The post Stored in…",
-      "url": "https://www.medianama.com/2026/09/223-microsofts-data-residency-ai/",
-      "source": "MediaNama",
-      "date": "2026-09-22",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Google will now directly report child sexual abuse content to Indian authorities",
-      "summary": "Google has proposed directly sharing India-related CSAM reports with Indian law enforcement instead of relying solely on NCMEC. The post Google will now directly report child sexual abuse content to Indian authorities…",
-      "url": "https://www.medianama.com/2026/09/223-google-child-abuse-reporting-india/",
-      "source": "MediaNama",
-      "date": "2026-09-22",
+      "title": "Zoho’s Sridhar Vembu calls Big Tech’s push to slow AI development unfair",
+      "summary": "Large language models (LLMs) are becoming a commodity, with too many models in the market and prices also falling, Vembu said on the sidelines of the Zoholics event in Chennai.",
+      "url": "https://yourstory.com/2026/09/zoho-sridhar-vembu-big-tech-push-slow-ai-development-cynical",
+      "source": "YourStory",
+      "date": "2026-09-23",
       "category": "Tech",
       "region": "India"
     },
     {
-      "title": "Spinny Confidentially Files IPO Papers, Eyes Up To ₹3,000 Cr Issue",
-      "summary": "Used-car marketplace Spinny has pre-filed IPO papers with the Securities and Exchange Board of India (SEBI), sources told Inc42. The…",
-      "url": "https://inc42.com/buzz/spinny-confidentially-files-ipo-papers-eyes-up-to-%e2%82%b93000-cr-issue/",
+      "title": "EV company Ultraviolette raises $85M in Series E led by deeptech fund Yali Capital",
+      "summary": "Ultraviolette is targeting entry into the United States in 2027, along with a broader expansion across key markets in Latin America and South-East Asia, said the company in a press statement.",
+      "url": "https://yourstory.com/2026/09/ultraviolette-raises-85-million-series-e",
+      "source": "YourStory",
+      "date": "2026-09-23",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Why Airtel says 5G network slicing should be treated differently from regular network quality rules",
+      "summary": "Airtel says network slicing is a distinct 5G capability and should not be regulated like conventional QoS mechanisms. The post Why Airtel says 5G network slicing should be treated differently from regular network…",
+      "url": "https://www.medianama.com/2026/09/223-airtel-trai-network-slicing-comments/",
+      "source": "MediaNama",
+      "date": "2026-09-23",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Defence manufacturer Hughes Precision raises Rs 250 Cr funding",
+      "summary": "Hughes Precision will use this funding for the expansion of its small caliber ammunition facility and also expand into medium caliber segment.",
+      "url": "https://yourstory.com/2026/09/defence-manufacturer-hughes-precision-raises-rs-250-crore-funding",
+      "source": "YourStory",
+      "date": "2026-09-23",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "[Update] Ultraviolette Raises $85 Mn To Scale EV Production",
+      "summary": "Update | September 23, 13:10 IST Electric two-wheeler startup Ultraviolette Automotive has raised $85 Mn (about ₹813 Cr) in a…",
+      "url": "https://inc42.com/buzz/exclusive-ultraviolette-to-raise-inr-373-cr-as-manufacturing-facility-bigga-takes-shape/",
       "source": "Inc42",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Bengaluru Court restrains X from hosting ‘false & defamatory’ content about ‘The Paradise’ film",
-      "summary": "Four days before The Paradise’s release, a Bengaluru court temporarily restrained X from hosting content about the Telugu film that its producers had flagged as false and defamatory. The post Bengaluru Court restrains X…",
-      "url": "https://www.medianama.com/2026/09/223-bengaluru-court-defamatory-content-paradise/",
-      "source": "MediaNama",
-      "date": "2026-09-22",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Sikkim schools are using AI to track how children learn. What data does it keep?",
-      "summary": "Sikkim is using AI in 71 government schools to track how children read and solve maths problems, but it has not disclosed what data the system stores. The post Sikkim schools are using AI to track how children learn.…",
-      "url": "https://www.medianama.com/2026/09/223-sikkim-ai-schools-children-data-privacy/",
-      "source": "MediaNama",
-      "date": "2026-09-22",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
       "source": "TechCrunch AI",
-      "date": "2026-09-21",
+      "date": "2026-09-23",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "California tightens rules on AI data center energy and water use",
-      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
       "source": "The Verge AI",
-      "date": "2026-09-21",
+      "date": "2026-09-23",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-22",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-22",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\"…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "source": "The Verge AI",
+      "date": "2026-09-22",
       "category": "Tech",
       "region": "Global"
     },
     {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
       "source": "TechCrunch AI",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings…",
-      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
       "source": "TechCrunch AI",
-      "date": "2026-09-21",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-21",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-21",
-      "category": "Tech",
-      "region": "Global"
-    },
-    {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "category": "General",
       "region": "Global"
     }

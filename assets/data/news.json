@@ -1,41 +1,95 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "items": [
     {
-      "title": "From Ultraviolette Automotive To GalaxEye — Indian Startups Raised Over $203 Mn This Week",
-      "summary": "Funding activity remained strong as Indian startups raised a combined $203.4 Mn across 21 deals between September 21 and September…",
-      "url": "https://inc42.com/buzz/from-ultraviolette-automotive-to-galaxeye-indian-startups-raised-over-203-mn-this-week/",
+      "title": "Indian Startup IPO Tracker 2026",
+      "summary": "Dalal Street emerged as a founder’s paradise in 2025, with 18 Indian startups listing on the bourses and collectively mopping…",
+      "url": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
       "source": "Inc42",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Community, knowledge, media: Museum of Art and Photography features two diverse exhibitions",
-      "summary": "In this photo essay, we showcase creative highlights from exhibitions at the award-winning Museum of Art and Photography.",
-      "url": "https://yourstory.com/2026/09/community-knowledge-media-museum-art-photography-exhibitions",
-      "source": "YourStory",
-      "date": "2026-09-26",
+      "title": "Spinny’s IPO Ride, But What’s Under The Hood?",
+      "summary": "Five years ago, CarTrade became one of the first digital auto marketplaces to test India’s public markets. The company went…",
+      "url": "https://inc42.com/features/spinnys-ipo-ride-but-whats-under-the-hood/",
+      "source": "Inc42",
+      "date": "2026-09-27",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "India’s shooting stars win gold at Asian Games; Meet the solar didis of Bihar",
-      "summary": "Silence Laboratories replaces traditional legal contracts and third-party intermediaries with cryptographic guarantees, enabling joint computations on encrypted data without revealing underlying raw inputs.",
-      "url": "https://yourstory.com/2026/09/indias-shooting-stars-win-gold-at-asian-games",
+      "title": "Sports, sensors, sustainability: test your business creativity with Edition 251 of our weekly quiz!",
+      "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 251st quiz. Ready?",
+      "url": "https://yourstory.com/2026/09/sports-sensors-sustainability-business-creativity-entrepreneur-quiz",
       "source": "YourStory",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "India’s connected car push: How simulation is preparing vehicles for real-world chaos",
-      "summary": "India’s proposed 2028 V2V/V2X mandate is pushing automakers to prove that connected safety systems can handle the country’s unpredictable roads before they reach public highways.",
-      "url": "https://yourstory.com/2026/09/connected-car-push-simulation-making-vehicles-safer-dspace",
+      "title": "Mother, motherhood, Mother Nature: unifying connections at National Gallery of Modern Art",
+      "summary": "In this photo essay, we showcase creative highlights from exhibitions at Bengaluru’s National Gallery of Modern Art.",
+      "url": "https://yourstory.com/2026/09/mother-motherhood-nature-national-gallery-modern-art-photography",
       "source": "YourStory",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "category": "General",
       "region": "India"
+    },
+    {
+      "title": "IIT Madras’ 1,000-startup bet; OpenAI’s rogue agents raise fresh privacy concerns",
+      "summary": "IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said.",
+      "url": "https://yourstory.com/2026/09/iit-madras-1000-startup-bet-openais-rogue-agents",
+      "source": "YourStory",
+      "date": "2026-09-27",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-27",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-26",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source": "The Verge AI",
+      "date": "2026-09-26",
+      "category": "Tech",
+      "region": "Global"
+    },
+    {
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we…",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "source": "The Verge AI",
+      "date": "2026-09-26",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-26",
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
@@ -54,60 +108,6 @@
       "date": "2026-09-25",
       "category": "General",
       "region": "Global"
-    },
-    {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-25",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Meta opens early access program for new Muse features",
-      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-25",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of…",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-25",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-25",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-25",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "6 R.F. Kuang book quotes that find beauty in contradictions",
-      "summary": "Discover 6 thought-provoking R.F. Kuang quotes that explore contradiction, identity, language, power, and the beauty found in life's complexities.",
-      "url": "https://yourstory.com/2026/09/rf-kuang-book-quotes-beauty-in-contradictions",
-      "source": "YourStory",
-      "date": "2026-09-25",
-      "category": "General",
-      "region": "India"
     }
   ]
 }

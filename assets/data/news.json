@@ -1,50 +1,104 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "items": [
     {
-      "title": "Indian Startup IPO Tracker 2026",
-      "summary": "Dalal Street emerged as a founder’s paradise in 2025, with 18 Indian startups listing on the bourses and collectively mopping…",
-      "url": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
+      "title": "Every few years Ram Sukumar remakes Indium. AI is his best chance yet",
+      "summary": "Born into a Chennai business family, Ram Sukumar lost the cushion in 2001 and bootstrapped his way past $100 million in revenue. Now he’s betting AI will help Indium more than it hurts.",
+      "url": "https://yourstory.com/2026/09/every-few-years-ram-sukumar-remakes-indium-ai-is-his-best-chance-yet",
+      "source": "YourStory",
+      "date": "2026-09-28",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Tamil Nadu allows Matrimony.com to use Aadhaar authentication for user verification",
+      "summary": "Tamil Nadu has allowed Matrimony.com to offer voluntary Aadhaar authentication for user verification, aimed at preventing impersonation and fraud on its matrimonial platform. The post Tamil Nadu allows Matrimony.com to…",
+      "url": "https://www.medianama.com/2026/09/223-tamil-nadu-matrimony-aadhaar-user-verification/",
+      "source": "MediaNama",
+      "date": "2026-09-28",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Snapdeal Parent AceVector’s IPO Subscribed 96% On Day 2 So Far",
+      "summary": "Snapdeal parent AceVector’s ₹420 Cr IPO has been subscribed 96% as of 14:33 IST on the second day of bidding,…",
+      "url": "https://inc42.com/buzz/snapdeal-parent-acevectors-ipo-subscribed-96-on-day-2-so-far/",
       "source": "Inc42",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Spinny’s IPO Ride, But What’s Under The Hood?",
-      "summary": "Five years ago, CarTrade became one of the first digital auto marketplaces to test India’s public markets. The company went…",
-      "url": "https://inc42.com/features/spinnys-ipo-ride-but-whats-under-the-hood/",
-      "source": "Inc42",
-      "date": "2026-09-27",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Sports, sensors, sustainability: test your business creativity with Edition 251 of our weekly quiz!",
-      "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 251st quiz. Ready?",
-      "url": "https://yourstory.com/2026/09/sports-sensors-sustainability-business-creativity-entrepreneur-quiz",
+      "title": "Startup news and updates: daily roundup (September 28, 2026)",
+      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, September 28, 2026.",
+      "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-28-2026",
       "source": "YourStory",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Mother, motherhood, Mother Nature: unifying connections at National Gallery of Modern Art",
-      "summary": "In this photo essay, we showcase creative highlights from exhibitions at Bengaluru’s National Gallery of Modern Art.",
-      "url": "https://yourstory.com/2026/09/mother-motherhood-nature-national-gallery-modern-art-photography",
-      "source": "YourStory",
-      "date": "2026-09-27",
+      "title": "Amazon Pay FY26 loss widens 33% to Rs 1,149 crore despite revenue surge",
+      "summary": "The 33% YoY increase in loss in FY26 happened amidst decreasing market share of Amazon Pay in the UPI market as it went down to third position in 2026 (behind super.money & WhatsApp) from leading the position in 2024.…",
+      "url": "https://www.medianama.com/2026/09/223-amazon-pay-fy26-loss-revenue-surge/",
+      "source": "MediaNama",
+      "date": "2026-09-28",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "IIT Madras’ 1,000-startup bet; OpenAI’s rogue agents raise fresh privacy concerns",
-      "summary": "IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said.",
-      "url": "https://yourstory.com/2026/09/iit-madras-1000-startup-bet-openais-rogue-agents",
-      "source": "YourStory",
+      "title": "Who’s liable when AI agents go rogue?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of…",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "source": "MIT Technology Review",
+      "date": "2026-09-28",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds.…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source": "The Verge AI",
       "date": "2026-09-27",
       "category": "General",
-      "region": "India"
+      "region": "Global"
+    },
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-27",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-27",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge AI",
+      "date": "2026-09-27",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-27",
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -52,60 +106,6 @@
       "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
       "source": "TechCrunch AI",
       "date": "2026-09-27",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-26",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "source": "The Verge AI",
-      "date": "2026-09-26",
-      "category": "Tech",
-      "region": "Global"
-    },
-    {
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we…",
-      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "source": "The Verge AI",
-      "date": "2026-09-26",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-26",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-26",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-25",
       "category": "General",
       "region": "Global"
     }

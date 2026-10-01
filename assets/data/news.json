@@ -1,112 +1,112 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "items": [
     {
-      "title": "Platforms were meant to tell users about govt takedowns: ex-MeitY cyber-law head",
-      "summary": "Ex-MeitY cyber-law head Rakesh Maheshwari said Section 69A of the IT Act was for national security & Section 79(3(b) is for takedown orders issued by designated officers at a senior level and the platforms are supposed…",
-      "url": "https://www.medianama.com/2026/09/223-platforms-users-takedowns-ex-meity-officer/",
+      "title": "Amazon’s quick commerce, grocery biz posts Rs 1,158 crore loss in FY26",
+      "summary": "While revenue from operations rose 50% to Rs 3051 cr in FY26 for Amazon's quick-commerce and grocery business arm, expenses like delivery charges, procurement ate into profit, leading to Rs 1158 cr loss. The post…",
+      "url": "https://www.medianama.com/2026/10/223-amazon-quick-commerce-grocery-loss-fy26/",
       "source": "MediaNama",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "NHRC seeks reports from Meta, MeitY over alleged use of children in political Instagram videos",
-      "summary": "NHRC has sought reports from Meta, MeitY and Etah authorities over allegations that adults used minor children in scripted political videos posted on social media, raising child safety concerns. The post NHRC seeks…",
-      "url": "https://www.medianama.com/2026/09/223-nhrc-children-political-instagram-videos/",
-      "source": "MediaNama",
-      "date": "2026-09-30",
-      "category": "Tech",
-      "region": "India"
-    },
-    {
-      "title": "Startup news and updates: daily roundup (September 30, 2026)",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for September 30, 2026.",
-      "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-30-2026",
-      "source": "YourStory",
-      "date": "2026-09-30",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Not unicorns, lifelines: 5 Northeast startups building for problems they grew up with",
-      "summary": "Meet five Northeast startups building solutions for electricity, healthcare, water, language and accessibility challenges across the region.",
-      "url": "https://yourstory.com/2026/09/northeast-startups-solving-local-problems",
-      "source": "YourStory",
-      "date": "2026-09-30",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "India’s Scale Demands Planning For Failures Beyond Your Stack: Razorpay’s Prabhu Ram",
-      "summary": "Building reliable digital payments at India’s scale requires planning for failures in infrastructure a company does not control, according to…",
-      "url": "https://inc42.com/buzz/indias-scale-demands-planning-for-failures-beyond-your-stack-razorpays-prabhu-ram/",
+      "title": "Google Unveils Gemini 4 Argon, Its Most Advanced AI Model Yet",
+      "summary": "Amid increasing competition in AI, Google has now unveiled its new, most powerful model Gemini 4 Argon. The model is…",
+      "url": "https://inc42.com/buzz/google-unveils-gemini-4-argon-its-most-advanced-ai-model-yet/",
       "source": "Inc42",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "title": "Razorpay enables Apple Pay for online and in-store payments in India",
+      "summary": "From Zepto to IndiGo, shoppers can now skip OTPs and pay with Face ID or Touch ID, marking a new chapter in India’s digital payment authentication. Razorpay has enabled Apple Pay for online and in-store payments in…",
+      "url": "https://yourstory.com/2026/10/razorpay-enables-apple-pay-for-online-and-store-payments-india",
+      "source": "YourStory",
+      "date": "2026-10-01",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Network Slicing should not dilute Net Neutrality: Stakeholders at TRAI open house discussion",
+      "summary": "BIF, consumer groups, Airtel and Jio shared their views on TRAI’s proposed framework for 5G network slicing and quality of service. The post Network Slicing should not dilute Net Neutrality: Stakeholders at TRAI open…",
+      "url": "https://www.medianama.com/2026/10/223-trai-network-slicing-net-neutrality-stakeholders/",
+      "source": "MediaNama",
+      "date": "2026-10-01",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Reddit to shut RSS feeds, close public API as AI bots scrape its data",
+      "summary": "Announcing the closing timeline of RSS feeds and API, Reddit said that RSS has become a \"common surface for large-scale scraping and automated abuse\" by bots who will now have to move to its Devvit platform. The post…",
+      "url": "https://www.medianama.com/2026/10/223-reddit-rss-feeds-public-api-bots/",
+      "source": "MediaNama",
+      "date": "2026-10-01",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage…",
+      "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "source": "The Verge AI",
+      "date": "2026-10-01",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-30",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "source": "TechCrunch AI",
+      "date": "2026-09-30",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work…",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
       "source": "The Verge AI",
       "date": "2026-09-30",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
       "source": "TechCrunch AI",
-      "date": "2026-09-29",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\"…",
-      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-      "source": "The Verge AI",
-      "date": "2026-09-29",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-29",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Elon Musk’s AI-powered Grokipedia is updating again",
-      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since…",
-      "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "source": "The Verge AI",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "category": "Tech",
       "region": "Global"
     },
     {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
       "source": "TechCrunch AI",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "source": "TechCrunch AI",
-      "date": "2026-09-29",
-      "category": "Tech",
+      "title": "The AI Tamagotchis are coming",
+      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "source": "The Verge AI",
+      "date": "2026-09-30",
+      "category": "General",
       "region": "Global"
     }
   ]

@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "items": [
     {
-      "title": "AI music maker Suno now generates spoken words",
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "title": "Skin In The Game: Why Banks Are Taking Stakes In AI Labs",
+      "summary": "Rogo, a US-based financial-services AI startup, raised $30 Mn this month. What made this unique was that some of the…",
+      "url": "https://inc42.com/features/skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs/",
+      "source": "Inc42",
+      "date": "2026-10-03",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+      "summary": "The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut as…",
+      "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
+      "source": "Inc42",
+      "date": "2026-10-03",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "AceVector IPO: SoftBank Pockets ₹88 Cr, Most Selling Shareholders Book Losses",
+      "summary": "Snapdeal parent AceVector’s initial public offering (IPO) provided an exit opportunity to several of its early investors and promoters, with…",
+      "url": "https://inc42.com/buzz/acevector-ipo-softbank-to-pocket-%e2%82%b988-cr-individual-investors-book-up-to-5-4x-return/",
+      "source": "Inc42",
+      "date": "2026-10-03",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "From Simple Energy To Arivihan — Indian Startups Raised Over $233 Mn This Week",
+      "summary": "Funding momentum in the Indian startup ecosystem continued through the final week of September. Homegrown new-age tech ventures raised…",
+      "url": "https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/",
+      "source": "Inc42",
+      "date": "2026-10-03",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Business trends and success tips: entrepreneur advice from Gifts World Expo",
+      "summary": "In this photo essay, we showcase highlights from Gifts World Expo 2026 at Palace Grounds, Bengaluru.",
+      "url": "https://yourstory.com/2026/10/business-trends-success-tips-entrepreneur-advice-gifts-world-expo-photography",
+      "source": "YourStory",
+      "date": "2026-10-03",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-02",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders,…",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "source": "The Verge AI",
       "date": "2026-10-02",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "India does not have structural excess manufacturing capacity: Goyal at G20",
-      "summary": "Commerce and Industry Minister Piyush Goyal said industrial capacity in itself is not the issue; however, distortions can arise where geographical concentration of production is driven by hidden subsidies and support.",
-      "url": "https://yourstory.com/2026/10/india-does-not-have-structural-excess-manufacturing-capacity-goyal-at-g20",
-      "source": "YourStory",
-      "date": "2026-10-02",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "A new contest pits competitors against each other in a race to biological youth",
-      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward.…",
-      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-02",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Inside ixigo’s Full-Stack Model: How Trains, Flights And Buses Are Funding Its Next Bets",
-      "summary": "Everything ixigo has done since it started off in 2007 can be called a stepping stone to get to where…",
-      "url": "https://inc42.com/features/inside-ixigos-full-stack-model-how-trains-flights-and-buses-are-funding-its-next-bets/",
-      "source": "Inc42",
-      "date": "2026-10-02",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked…",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-02",
       "category": "Tech",
       "region": "Global"
     },
     {
-      "title": "TakeMe2Space, SatLeo, EON Space Labs Launch Payloads Aboard SpaceX Falcon 9",
-      "summary": "Indian spacetech startups TakeMe2Space, SatLeo Labs, and EON Space Labs sent AI computing and Earth observation technologies into orbit aboard…",
-      "url": "https://inc42.com/buzz/takeme2space-satleo-eon-space-labs-launch-payloads-aboard-spacex-falcon-9/",
-      "source": "Inc42",
-      "date": "2026-10-02",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Researchers Flag AI Overreach, Moneyview’s Bumper IPO & More",
-      "summary": "OpenAI Dispute Sparks Academic Panic Last month, OpenAI’s Codex possibly solved the Navier-Stokes equations in days. But mathematician Tristan Buckmaster…",
-      "url": "https://inc42.com/buzz/researchers-flag-ai-overreach-moneyviews-bumper-ipo-more/",
-      "source": "Inc42",
-      "date": "2026-10-02",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Meta’s AI could flood the internet; Four Indian brands putting a new spin on khadi",
-      "summary": "A new report on Meta’s latest AI developments explores how the company’s push could accelerate the creation of machine-generated content at a scale that changes what we see—and trust—online.",
-      "url": "https://yourstory.com/2026/10/metas-ai-could-flood-the-internet-india-brands-khadi",
-      "source": "YourStory",
-      "date": "2026-10-02",
-      "category": "Tech",
-      "region": "India"
-    },
-    {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-01",
-      "category": "Tech",
-      "region": "Global"
-    },
-    {
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users…",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
       "source": "The Verge AI",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
+      "category": "Tech",
+      "region": "Global"
+    },
+    {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-02",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
       "source": "TechCrunch AI",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-01",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "source": "The Verge AI",
+      "date": "2026-10-02",
       "category": "General",
       "region": "Global"
     }

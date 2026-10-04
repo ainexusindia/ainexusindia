@@ -1,50 +1,104 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "items": [
     {
-      "title": "Skin In The Game: Why Banks Are Taking Stakes In AI Labs",
-      "summary": "Rogo, a US-based financial-services AI startup, raised $30 Mn this month. What made this unique was that some of the…",
-      "url": "https://inc42.com/features/skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs/",
-      "source": "Inc42",
-      "date": "2026-10-03",
+      "title": "India’s Bitchat ban highlights two key issues",
+      "summary": "The Indian government has blocked Bitchat from the Google Play Store, Apple App Store and its website bitchat.free The post India’s Bitchat ban highlights two key issues appeared first on MEDIANAMA.",
+      "url": "https://www.medianama.com/2026/10/223-indias-bitchat-ban-highlights-two-key-issues/",
+      "source": "MediaNama",
+      "date": "2026-10-04",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
-      "summary": "The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut as…",
-      "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
-      "source": "Inc42",
-      "date": "2026-10-03",
+      "title": "MediaNama in September 2026: the top 20 stories",
+      "summary": "Policybazaar, network slicing, SIR, Muse, Bigbasket, NPCI The post MediaNama in September 2026: the top 20 stories appeared first on MEDIANAMA.",
+      "url": "https://www.medianama.com/2026/10/223-medianama-in-september-2026-the-top-20-stories/",
+      "source": "MediaNama",
+      "date": "2026-10-04",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "AceVector IPO: SoftBank Pockets ₹88 Cr, Most Selling Shareholders Book Losses",
-      "summary": "Snapdeal parent AceVector’s initial public offering (IPO) provided an exit opportunity to several of its early investors and promoters, with…",
-      "url": "https://inc42.com/buzz/acevector-ipo-softbank-to-pocket-%e2%82%b988-cr-individual-investors-book-up-to-5-4x-return/",
+      "title": "Is Apple Pay’s India Entry Too Late?",
+      "summary": "The past fortnight has brought several developments around Apple in India. The iPhone 18 Pro and Apple’s foldable iPhone Duo…",
+      "url": "https://inc42.com/features/is-apple-pays-india-entry-too-late/",
       "source": "Inc42",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "From Simple Energy To Arivihan — Indian Startups Raised Over $233 Mn This Week",
-      "summary": "Funding momentum in the Indian startup ecosystem continued through the final week of September. Homegrown new-age tech ventures raised…",
-      "url": "https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/",
-      "source": "Inc42",
-      "date": "2026-10-03",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Business trends and success tips: entrepreneur advice from Gifts World Expo",
-      "summary": "In this photo essay, we showcase highlights from Gifts World Expo 2026 at Palace Grounds, Bengaluru.",
-      "url": "https://yourstory.com/2026/10/business-trends-success-tips-entrepreneur-advice-gifts-world-expo-photography",
+      "title": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030",
+      "summary": "Andhra Pradesh Chief Minister N Chandrababu Naidu told venture capital investors that the state would match their contribution to deeptech investments.",
+      "url": "https://yourstory.com/2026/10/paniit-500-cr-deeptech-fund-targets-25-andhra-startups-by-2030",
       "source": "YourStory",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Why did Virat Kohli give up a Rs 300 Cr Puma deal to back Abhishek Ganguly’s Agilitas?",
+      "summary": "In this episode of the Prime Venture Partners Podcast, Abhishek Ganguly shares how he built Puma India, how Virat Kohli’s one8 came about, and what Agilitas is trying to build in India’s sportswear market?",
+      "url": "https://yourstory.com/2026/10/why-did-virat-kohli-give-up-rs-300-cr-puma-deal-abhishek-gangulys-agilitas",
+      "source": "YourStory",
+      "date": "2026-10-04",
       "category": "General",
       "region": "India"
+    },
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the…",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source": "The Verge AI",
+      "date": "2026-10-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and…",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "source": "The Verge AI",
+      "date": "2026-10-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "The Verge AI",
+      "date": "2026-10-03",
+      "category": "Tech",
+      "region": "Global"
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-03",
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "Meta wants your next gadget to be Muse-infused",
@@ -52,60 +106,6 @@
       "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
       "source": "TechCrunch AI",
       "date": "2026-10-03",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-02",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders,…",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "source": "The Verge AI",
-      "date": "2026-10-02",
-      "category": "Tech",
-      "region": "Global"
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users…",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "source": "The Verge AI",
-      "date": "2026-10-02",
-      "category": "Tech",
-      "region": "Global"
-    },
-    {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-02",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-02",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "source": "The Verge AI",
-      "date": "2026-10-02",
       "category": "General",
       "region": "Global"
     }

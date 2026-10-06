@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "items": [
     {
-      "title": "AI churns out bug reports faster than Google can verify them",
-      "summary": "Google paused its open-source bug bounty program after a surge in automated AI reports shifted the security bottleneck from finding vulnerabilities to verifying whether reported flaws are real. The post AI churns out…",
-      "url": "https://www.medianama.com/2026/10/223-ai-bug-report-google/",
+      "title": "Why haven’t X Numbers drawn the scrutiny WhatsApp usernames did?",
+      "summary": "X launched X Numbers, letting users message or call without phone numbers. The feature raises questions after MeitY blocked similar username features on WhatsApp, Signal and Telegram over fraud risks. The post Why…",
+      "url": "https://www.medianama.com/2026/10/223-x-numbers-scrutiny-whatsapp-usernames/",
       "source": "MediaNama",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "The contours of a cogent framework to address data and cybersecurity risks in the financial sector",
+      "summary": "Financial institutions face increasingly interconnected data and cyber risks as AI, fintechs, cloud providers and digital platforms expand the financial ecosystem. The post The contours of a cogent framework to address…",
+      "url": "https://www.medianama.com/2026/10/223-financial-sector-cyber-resilience/",
+      "source": "MediaNama",
+      "date": "2026-10-06",
       "category": "Tech",
       "region": "India"
     },
     {
-      "title": "Our minds aren’t equipped to handle AI",
-      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "title": "Dronetech Startup AITMC Files UDRHP For A Fresh Issue IPO",
+      "summary": "Dronetech and skill development startup AITMC Ventures has filed its UDRHP with SEBI for an IPO comprising a fresh issue…",
+      "url": "https://inc42.com/buzz/dronetech-startup-aitmc-files-udrhp-for-a-fresh-issue-ipo/",
+      "source": "Inc42",
+      "date": "2026-10-06",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Why the Delhi Consumer Commission says Swiggy can’t claim safe harbor on Dineout pricing",
+      "summary": "A Delhi consumer commission held Swiggy and a restaurant jointly liable for misleading users with an inaccurate “cost for two” figure, rejecting Swiggy’s safe harbour defence under Section 79. The post Why the Delhi…",
+      "url": "https://www.medianama.com/2026/10/223-delhi-consumer-commission-swiggy-safe-harbor-dineout/",
+      "source": "MediaNama",
+      "date": "2026-10-06",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "India’s new AI ad labelling guidelines: What brands must disclose and when AI content counts as an ad",
+      "summary": "ASCI has introduced new rules for labelling synthetically generated content in advertising, creating separate obligations from India's IT Rules. The post India’s new AI ad labelling guidelines: What brands must disclose…",
+      "url": "https://www.medianama.com/2026/10/223-asci-ai-labelling-guidelines-advertising-2026/",
+      "source": "MediaNama",
+      "date": "2026-10-06",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Gemini Call for Me might tell your mom you’re running late",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
       "source": "The Verge AI",
       "date": "2026-10-05",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "WhatsApp banned 6.2 million Indian accounts in August, reversed under 1% of appeals",
-      "summary": "Of the 6.2 million WhatsApp accounts banned in August, the platform received grievances against 27,085 but took action against only 472, about 1.7% of the appeals while 0.9% of the accounts were actually restored. The…",
-      "url": "https://www.medianama.com/2026/10/223-whatsapp-banned-indian-accounts-august/",
-      "source": "MediaNama",
-      "date": "2026-10-05",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Bombay HC grants Samantha Ruth Prabhu relief against AI deepfakes and chatbots, extends it to future content",
-      "summary": "The Bombay High Court granted Samantha Ruth Prabhu interim protection against AI deepfakes, pornographic content, impersonating chatbots and unauthorised use of her name, image and voice. The post Bombay HC grants…",
-      "url": "https://www.medianama.com/2026/10/223-bombay-hc-samantha-ruth-prabhu-deepfakes-chatbots/",
-      "source": "MediaNama",
-      "date": "2026-10-05",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "UPI in September: Transactions decline to 24.07 billion, average transaction size falls to Rs 1,012",
-      "summary": "UPI recorded 24.07 billion transactions worth Rs 29.37 lakh crore in September, with volumes down 1.8% month-on-month even as daily transactions touched a new all-time high. The post UPI in September: Transactions…",
-      "url": "https://www.medianama.com/2026/10/223-upi-september-transactions-decline/",
-      "source": "MediaNama",
-      "date": "2026-10-05",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Startup news and updates: daily roundup (October 5, 2026)",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, October 5, 2026.",
-      "url": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-5-2026",
-      "source": "YourStory",
-      "date": "2026-10-05",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "People really hate AI, so why can’t they get enough?",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something…",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-05",
       "category": "Tech",
       "region": "Global"
     },
     {
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other…",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-05",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "source": "TechCrunch AI",
-      "date": "2026-10-04",
-      "category": "Tech",
+      "date": "2026-10-05",
+      "category": "General",
       "region": "Global"
     },
     {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "source": "The Verge AI",
+      "date": "2026-10-05",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training…",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
       "source": "TechCrunch AI",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "title": "All the drama around AI’s takeover of mathematics",
+      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
       "source": "The Verge AI",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\"…",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
       "source": "The Verge AI",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with…",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-05",
       "category": "General",
       "region": "Global"
     }

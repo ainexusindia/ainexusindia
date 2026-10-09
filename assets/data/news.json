@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "items": [
     {
-      "title": "Meet The Startups That Won The Ericsson Innovation Challenge 2026",
-      "summary": "At the India Mobile Congress 2026, telecom and network infrastructure company Ericsson unveiled the winners of its flagship startup competition,…",
-      "url": "https://inc42.com/buzz/meet-the-startups-that-won-the-ericsson-innovation-challenge-2026/",
-      "source": "Inc42",
-      "date": "2026-10-08",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Why we’re watching these climate tech companies",
-      "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting…",
-      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-08",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Exclusive: Amid protests, MeitY widens labelling for social media beyond synthetic content",
-      "summary": "The MeitY advisory has asked social media platforms to exercise \"enhanced diligence\" over \"false, misleading, manipulated or deliberately out of context\" content and identify & label them appropriately, especially if…",
-      "url": "https://www.medianama.com/2026/10/223-meity-labelling-social-media-synthetic-content/",
-      "source": "MediaNama",
-      "date": "2026-10-08",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Elon Musk accuses ‘monopolistic oligarchs’ of blocking the launch of Starlink in India",
-      "summary": "Elon Musk accused Indian oligarchs of blocking Starlink’s launch in India, sparking political reactions and questions over telecom monopolies, regulatory delays, pricing, and national security concerns. The post Elon…",
-      "url": "https://www.medianama.com/2026/10/223-elon-musk-monopolisitc-oligarchs-starlink/",
-      "source": "MediaNama",
-      "date": "2026-10-08",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped…",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-08",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Startup news and updates: daily roundup (October 8, 2026)",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, October 8 , 2026.",
-      "url": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-8-2026",
+      "title": "The festive sales playbook: How Amazon and Flipkart are winning India’s mega sales",
+      "summary": "India’s festive sale showdown sees Amazon and Flipkart racing to dominate non-metro markets, relying on instant quick-commerce deliveries, no-cost financing, and targeted AI tools to turn record traffic into sales.",
+      "url": "https://yourstory.com/2026/10/festive-sales-playbook-how-amazon-flipkart-winning-indias-mega-sales",
       "source": "YourStory",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Pine Labs, Paytm, MobiKwik Shares Slide Amid Reports Of UPI MDR Delay",
-      "summary": "Shares of fintech companies Paytm, Pine Labs and MobiKwik came under pressure today following reports that the proposed merchant discount…",
-      "url": "https://inc42.com/buzz/fintech-stocks-slide-amid-reports-of-upi-mdr-delay/",
+      "title": "Anthropic Bans ‘Cruel’ Behaviour Towards AI Models, Tightens Rules On AI Misuse",
+      "summary": "Anthropic has updated its usage policy to introduce restrictions on “sustained and needless abusive behaviour” towards its AI models. The…",
+      "url": "https://inc42.com/buzz/anthropic-bans-cruel-behaviour-towards-ai-models-tightens-rules-on-ai-misuse/",
       "source": "Inc42",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Juspay FY26 revenue rises 30% to Rs 664 Cr as international business and AI bets scale",
+      "summary": "Juspay reported a 30% year-on-year increase in FY26 revenue to Rs 664 crore, driven by global expansion and scaling daily transaction volumes, while strategic investments in AI infrastructure widened its net loss.",
+      "url": "https://yourstory.com/2026/10/juspay-fy26-revenue-rises-30-percent-rs-664-crore-international-business-ai-bets-scale",
+      "source": "YourStory",
+      "date": "2026-10-09",
       "category": "Tech",
       "region": "India"
     },
     {
-      "title": "Building a safer path to autonomous industrial AI",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex…",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "source": "The Verge AI",
+      "date": "2026-10-09",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Indian AI Startup Funding Surges 265% YoY In Q3, Will Momentum Continue?",
+      "summary": "AI emerged as the defining theme in the Indian startup ecosystem in the July-September quarter, with startups in the segment…",
+      "url": "https://inc42.com/features/indian-ai-startup-funding-surges-265-yoy-in-q3-will-momentum-continue/",
+      "source": "Inc42",
+      "date": "2026-10-09",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "NeoGrowth raises Rs 85 Cr led by FMO",
+      "summary": "The company said the investment will support NeoGrowth's next phase of growth as it looks to expand access to credit for MSMEs, strengthen its digital lending capabilities and deepen its market presence.",
+      "url": "https://yourstory.com/2026/10/neogrowth-raises-rs-85-crore-led-by-fmo",
+      "source": "YourStory",
+      "date": "2026-10-09",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of…",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
       "source": "MIT Technology Review",
+      "date": "2026-10-09",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.”…",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-09",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of…",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-09",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for…",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-09",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "source": "The Verge AI",
       "date": "2026-10-08",
-      "category": "General",
+      "category": "Tech",
       "region": "Global"
     },
     {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the…",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
       "source": "TechCrunch AI",
-      "date": "2026-10-07",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-07",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "source": "The Verge AI",
-      "date": "2026-10-07",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s…",
-      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-      "source": "The Verge AI",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "category": "General",
       "region": "Global"
     }

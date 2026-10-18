@@ -1,57 +1,93 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "items": [
     {
-      "title": "ixigo Swings To ₹63 Cr Profit In Q2, Revenue Rises 13% YoY",
-      "summary": "Online travel aggregator ixigo swung to a consolidated net profit of ₹63.4 Cr in the September quarter of FY27 from…",
-      "url": "https://inc42.com/buzz/ixigo-swings-to-%e2%82%b963-cr-profit-in-q2-revenue-rises-13-yoy/",
+      "title": "FMCG firms grapple with input cost inflation in Q2, brace for margin pressure",
+      "summary": "Input-cost pressures intensified in the September quarter, reversing some of the moderation seen in the preceding quarter, which squeezed margins even as companies absorbed part of it to protect consumer demand during…",
+      "url": "https://yourstory.com/2026/10/fmcg-firms-input-cost-inflation-margin-pressure",
+      "source": "YourStory",
+      "date": "2026-10-18",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Starlink, Jio & OneWeb: Untangling The Satcom Queue",
+      "summary": "The irony was not lost on many. Around the same time as the internet in India’s national capital Delhi was…",
+      "url": "https://inc42.com/features/starlink-jio-oneweb-untangling-the-satcom-queue/",
       "source": "Inc42",
-      "date": "2026-10-17",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Burma Burma Parent Files DRHP For IPO With ₹150 Cr Fresh Issue",
-      "summary": "Hunger Pangs, the parent of restaurant chain Burma Burma, has filed its DRHP for an IPO comprising a fresh issue…",
-      "url": "https://inc42.com/buzz/burma-burma-parent-files-drhp-for-ipo-with-%e2%82%b9150-cr-fresh-issue/",
-      "source": "Inc42",
-      "date": "2026-10-17",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "AI agents accessed Indian organisations’ systems without authorisation, CERT-In reveals",
-      "summary": "AI agents accessed live systems belonging to Indian organisations during research and evaluation, according to CERT-In. The post AI agents accessed Indian organisations’ systems without authorisation, CERT-In reveals…",
-      "url": "https://www.medianama.com/2026/10/223-cert-in-ai-agents-unauthorised-access/",
-      "source": "MediaNama",
-      "date": "2026-10-17",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "UPI transactions fell 1.8% to 24.07 billion in September 2026; value slipped to Rs 29.37 lakh crore",
-      "summary": "UPI processed 24.07 billion transactions to the value of Rs 29.37 lakh crore in September 2026. This represented a 1.8% decline in volume and a 1.5% decline in value on a monthly basis, although there was again strong…",
-      "url": "https://www.medianama.com/2026/10/223-upi-transactions-september-value-slipped/",
-      "source": "MediaNama",
-      "date": "2026-10-17",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "TRAI Q1 FY27 data: India’s mobile data usage rises 8.3% in June quarter, average cost per GB falls",
-      "summary": "TRAI reported higher wireless data usage in April–June 2026, while average outgo per GB fell to Rs 7.13. The post TRAI Q1 FY27 data: India’s mobile data usage rises 8.3% in June quarter, average cost per GB falls…",
-      "url": "https://www.medianama.com/2026/10/223-trai-q1-fy27-mobile-data-usage/",
-      "source": "MediaNama",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "category": "Tech",
       "region": "India"
     },
     {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "How art platforms, exhibitions and awards strengthen the creative economy",
+      "summary": "In this photo essay from Lalit Kala Akademi in New Delhi, we showcase more highlights from an exhibition with 270 artworks from across India.",
+      "url": "https://yourstory.com/2026/10/art-platforms-exhibitions-awards-creative-economy-photography",
+      "source": "YourStory",
+      "date": "2026-10-18",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Health, inclusion, computing: Test your business creativity with Edition 254 of our weekly quiz!",
+      "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 254th quiz. Ready?",
+      "url": "https://yourstory.com/2026/10/health-inclusion-computing-business-entrepreneur-creativity-quiz",
+      "source": "YourStory",
+      "date": "2026-10-18",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Cancellation: A creator’s biggest turning point; Scaling India’s research multiplier",
+      "summary": "At TechSparks 2026, Varun Mayya, Founder and CEO of AEOS, a content and media-tech company, spoke about how online backlash can free creators to speak their minds, why founders need to get comfortable with reinvention,…",
+      "url": "https://yourstory.com/2026/10/cancellation-creator-biggest-turning-point-scaling-india-research-multiplier",
+      "source": "YourStory",
+      "date": "2026-10-18",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "source": "TechCrunch AI",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
+      "category": "Tech",
+      "region": "Global"
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-17",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-17",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the…",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge AI",
+      "date": "2026-10-17",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge AI",
+      "date": "2026-10-17",
       "category": "General",
       "region": "Global"
     },
@@ -68,42 +104,6 @@
       "title": "India becomes the latest country to report rogue AI agent activity",
       "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
       "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-16",
-      "category": "Tech",
-      "region": "Global"
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software,…",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-16",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software,…",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-16",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-16",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
       "source": "TechCrunch AI",
       "date": "2026-10-16",
       "category": "Tech",

@@ -1,50 +1,77 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "items": [
     {
-      "title": "FMCG firms grapple with input cost inflation in Q2, brace for margin pressure",
-      "summary": "Input-cost pressures intensified in the September quarter, reversing some of the moderation seen in the preceding quarter, which squeezed margins even as companies absorbed part of it to protect consumer demand during…",
-      "url": "https://yourstory.com/2026/10/fmcg-firms-input-cost-inflation-margin-pressure",
+      "title": "Sahi’s Dale Vaz wants an AI financial team in every pocket",
+      "summary": "Sahi CEO Dale Vaz explains how AI assistant Cairo helps Indian retail investors move from market access to confident decisions.",
+      "url": "https://yourstory.com/2026/10/sahi-dale-vaz-ai-assistant-cairo-retail-investing-india",
       "source": "YourStory",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Starlink, Jio & OneWeb: Untangling The Satcom Queue",
-      "summary": "The irony was not lost on many. Around the same time as the internet in India’s national capital Delhi was…",
-      "url": "https://inc42.com/features/starlink-jio-oneweb-untangling-the-satcom-queue/",
+      "title": "Is your marketing AI tool driving profit or just noise? CleverTap co-founder Anand Jain weighs in",
+      "summary": "At TechSparks 2026, CleverTap co-founder Anand Jain explained why marketing teams must move beyond basic generative AI productivity tools and adopt autonomous, real-time decisioning systems that drive genuine business…",
+      "url": "https://yourstory.com/2026/10/is-your-marketing-ai-driving-profit-or-just-more-noise-clevertap-co-founder-anand-jain-weighs-in",
+      "source": "YourStory",
+      "date": "2026-10-19",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "A 34-Year-Old Compression Tool Makes Claude Code 3x Faster",
+      "summary": "\"Claude Code now gzips the conversation it sends on every turn, so it reaches the model faster,” said Anthropic in a post on X",
+      "url": "https://analyticsindiamag.com/ai-news/a-34-year-old-compression-tool-makes-claude-code-3x-faster",
+      "source": "Analytics India Magazine",
+      "date": "2026-10-19",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Delhi HC protects Arjun Kapoor’s personality rights, asks Kriti Sanon’s lawyers what they cover",
+      "summary": "Arjun Kapoor has secured permanent protection against unauthorised commercial use of his persona. Meanwhile, the Delhi High Court is seeking wider legal arguments in Kriti Sanon’s case, including on the scope of…",
+      "url": "https://www.medianama.com/2026/10/223-arjun-kapoor-personality-rights-kriti-sanon/",
+      "source": "MediaNama",
+      "date": "2026-10-19",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Tonbo Imaging IPO Oversubscribed 40X On Day 3 Till Now",
+      "summary": "Defence tech company Tonbo Imaging’s IPO has been oversubscribed 40.82X on the third day of bidding till now. Till 13:23…",
+      "url": "https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-40x-on-day-3-till-now/",
       "source": "Inc42",
-      "date": "2026-10-18",
-      "category": "Tech",
-      "region": "India"
-    },
-    {
-      "title": "How art platforms, exhibitions and awards strengthen the creative economy",
-      "summary": "In this photo essay from Lalit Kala Akademi in New Delhi, we showcase more highlights from an exhibition with 270 artworks from across India.",
-      "url": "https://yourstory.com/2026/10/art-platforms-exhibitions-awards-creative-economy-photography",
-      "source": "YourStory",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Health, inclusion, computing: Test your business creativity with Edition 254 of our weekly quiz!",
-      "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 254th quiz. Ready?",
-      "url": "https://yourstory.com/2026/10/health-inclusion-computing-business-entrepreneur-creativity-quiz",
-      "source": "YourStory",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch AI",
       "date": "2026-10-18",
       "category": "General",
-      "region": "India"
+      "region": "Global"
     },
     {
-      "title": "Cancellation: A creator’s biggest turning point; Scaling India’s research multiplier",
-      "summary": "At TechSparks 2026, Varun Mayya, Founder and CEO of AEOS, a content and media-tech company, spoke about how online backlash can free creators to speak their minds, why founders need to get comfortable with reinvention,…",
-      "url": "https://yourstory.com/2026/10/cancellation-creator-biggest-turning-point-scaling-india-research-multiplier",
-      "source": "YourStory",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge AI",
       "date": "2026-10-18",
       "category": "General",
-      "region": "India"
+      "region": "Global"
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-18",
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -80,33 +107,6 @@
       "source": "The Verge AI",
       "date": "2026-10-17",
       "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Websites are closing their doors to AI agents",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "source": "The Verge AI",
-      "date": "2026-10-17",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints…",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-16",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-16",
-      "category": "Tech",
       "region": "Global"
     }
   ]

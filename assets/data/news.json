@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "items": [
     {
-      "title": "Sahi’s Dale Vaz wants an AI financial team in every pocket",
-      "summary": "Sahi CEO Dale Vaz explains how AI assistant Cairo helps Indian retail investors move from market access to confident decisions.",
-      "url": "https://yourstory.com/2026/10/sahi-dale-vaz-ai-assistant-cairo-retail-investing-india",
-      "source": "YourStory",
-      "date": "2026-10-19",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Is your marketing AI tool driving profit or just noise? CleverTap co-founder Anand Jain weighs in",
-      "summary": "At TechSparks 2026, CleverTap co-founder Anand Jain explained why marketing teams must move beyond basic generative AI productivity tools and adopt autonomous, real-time decisioning systems that drive genuine business…",
-      "url": "https://yourstory.com/2026/10/is-your-marketing-ai-driving-profit-or-just-more-noise-clevertap-co-founder-anand-jain-weighs-in",
-      "source": "YourStory",
-      "date": "2026-10-19",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "A 34-Year-Old Compression Tool Makes Claude Code 3x Faster",
-      "summary": "\"Claude Code now gzips the conversation it sends on every turn, so it reaches the model faster,” said Anthropic in a post on X",
-      "url": "https://analyticsindiamag.com/ai-news/a-34-year-old-compression-tool-makes-claude-code-3x-faster",
-      "source": "Analytics India Magazine",
-      "date": "2026-10-19",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Delhi HC protects Arjun Kapoor’s personality rights, asks Kriti Sanon’s lawyers what they cover",
-      "summary": "Arjun Kapoor has secured permanent protection against unauthorised commercial use of his persona. Meanwhile, the Delhi High Court is seeking wider legal arguments in Kriti Sanon’s case, including on the scope of…",
-      "url": "https://www.medianama.com/2026/10/223-arjun-kapoor-personality-rights-kriti-sanon/",
-      "source": "MediaNama",
-      "date": "2026-10-19",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Tonbo Imaging IPO Oversubscribed 40X On Day 3 Till Now",
-      "summary": "Defence tech company Tonbo Imaging’s IPO has been oversubscribed 40.82X on the third day of bidding till now. Till 13:23…",
-      "url": "https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-40x-on-day-3-till-now/",
+      "title": "Founder Salaries Tracker FY26: How Much Did India’s Startup Founders Earn?",
+      "summary": "Twenty-two founders across 15 new-age tech companies earned a combined ₹66.87 Cr in fixed remuneration in FY26, up 2.3% from…",
+      "url": "https://inc42.com/features/founder-salaries-tracker-fy26-how-much-did-indias-startup-founders-earn/",
       "source": "Inc42",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "title": "Flipkart Eyes October-End Launch For Food Delivery Service: Report",
+      "summary": "Walmart-owned ecommerce major Flipkart is reportedly targeting an October-end public launch for its food delivery service, ‘Eat-in by Minutes’, to…",
+      "url": "https://inc42.com/buzz/flipkart-eyes-october-end-launch-for-food-delivery-service-report/",
+      "source": "Inc42",
+      "date": "2026-10-20",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Centre Mulls Hardware Security Layer For Starlink, Other Satcom Operators",
+      "summary": "The Centre is reportedly considering developing a hardware device to strengthen security oversight of satellite internet services offered by Starlink…",
+      "url": "https://inc42.com/buzz/centre-mulls-hardware-security-layer-for-starlink-other-satcom-operators/",
+      "source": "Inc42",
+      "date": "2026-10-20",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Zerodha’s Wall Street Leap, Even Healthcare’s $50 Mn Raise & More",
+      "summary": "Brokerages Get A Ticket To Wall Street The Nifty 50 has dropped 12.4% YTD in 2026, the first yearly decline…",
+      "url": "https://inc42.com/buzz/zerodhas-wall-street-leap-even-healthcares-50-mn-raise-more/",
+      "source": "Inc42",
+      "date": "2026-10-20",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Eloelo's Saurabh Pandey bets that Dolphin AI can break the gatekeepers of Indian storytelling",
+      "summary": "The Eloelo Group founder told YourStory's flagship audience that AI-led production could turn India's storytellers into a global export force.",
+      "url": "https://yourstory.com/2026/10/eloelos-saurabh-pandey-bets-that-dolphin-ai-can-break-the-gatekeepers-of-indian-storytelling",
+      "source": "YourStory",
+      "date": "2026-10-20",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
       "source": "TechCrunch AI",
-      "date": "2026-10-18",
+      "date": "2026-10-20",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "source": "The Verge AI",
-      "date": "2026-10-18",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "source": "TechCrunch AI",
-      "date": "2026-10-18",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-17",
+      "date": "2026-10-19",
       "category": "Tech",
       "region": "Global"
     },
     {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety…",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
       "source": "TechCrunch AI",
-      "date": "2026-10-17",
+      "date": "2026-10-19",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
       "source": "TechCrunch AI",
-      "date": "2026-10-17",
+      "date": "2026-10-19",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the…",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "title": "The fossil fuel comeback is here",
+      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with…",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
       "source": "The Verge AI",
-      "date": "2026-10-17",
+      "date": "2026-10-19",
+      "category": "Tech",
+      "region": "Global"
+    },
+    {
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "source": "The Verge AI",
+      "date": "2026-10-19",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-19",
       "category": "General",
       "region": "Global"
     }

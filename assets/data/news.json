@@ -1,50 +1,95 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "items": [
     {
-      "title": "What will it take for India’s fintech infrastructure to go global?",
-      "summary": "At TechSparks 2026, Movin Jain of Skydo and Srijon Biswas of PhonePe discussed building payments infrastructure at scale, the challenges of cross-border transactions, and how AI could change business operations.",
-      "url": "https://yourstory.com/2026/10/what-will-it-take-for-indias-fintech-infrastructure-global",
+      "title": "How Attero is using AI to solve recycling’s pricing and compliance challenges",
+      "summary": "At TechSparks 2026, Ayush Agarwal, Head of Product and Technology at Attero, explains how AI-powered systems are helping the e-waste recycler standardise scrap pricing, automate compliance and improve financial…",
+      "url": "https://yourstory.com/2026/10/attero-ai-recycling-scrap-pricing-compliance-techsparks",
       "source": "YourStory",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Beyond transactions: How PhonePe and Razorpay are using AI to improve digital payments",
-      "summary": "At TechSparks 2026, Deep Agrawal of PhonePe and Khilan Haria of Razorpay discussed how contextual payments and AI can improve customer experiences, make financial services more accessible, and help small businesses grow.",
-      "url": "https://yourstory.com/2026/10/beyond-transactions-how-phonepe-and-razorpay-are-using-ai-to-improve-digital-payments",
+      "title": "Told to give up science in school, Mallikarjuna Iytha now backs 2,000 entrepreneurs with disabilities",
+      "summary": "Mallikarjuna Iytha, told to drop science due to disability, founded IDEA to back 2,000+ entrepreneurs with disabilities in India.",
+      "url": "https://yourstory.com/2026/10/mallikarjuna-iytha-idea-entrepreneurs-disabilities",
       "source": "YourStory",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Art and design: how this award-winning Bengaluru airport elevates passenger experience",
-      "summary": "As an eco-conscious terminal designed with lush garden-themed architecture, Terminal 2 at Bengaluru's Kempegowda International Airport has won much acclaim. This year, it was recognised among the Top 5 globally in the…",
-      "url": "https://yourstory.com/2026/10/art-design-bengaluru-airport-creativity-photography",
-      "source": "YourStory",
-      "date": "2026-10-25",
+      "title": "Telangana Unveils AI-Powered Digital Twin of IT Minister at DevFest 2026",
+      "summary": "The launch signals Telangana’s interest in applying AI beyond technology demonstrations to public-facing services",
+      "url": "https://analyticsindiamag.com/ai-news/telangana-unveils-ai-powered-digital-twin-of-it-minister-at-devfest-2026",
+      "source": "Analytics India Magazine",
+      "date": "2026-10-26",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Workflow, ecosystems, AI: Test your business creativity with Edition 255 of our weekly quiz!",
-      "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 255th quiz. Ready?",
-      "url": "https://yourstory.com/2026/10/business-creativity-quiz-education-entrepreneur",
+      "title": "Same AI, different outcomes: what 25 lean AI startups got right",
+      "summary": "Why do lean AI startups scale while others stall? A Suvan Ventures report identifies seven growth drivers across 25 companies.",
+      "url": "https://yourstory.com/2026/10/lean-ai-startup-scaling-framework-seven-growth-drivers",
       "source": "YourStory",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Amagi Media Labs faces extortion attempt, operational data stolen",
+      "summary": "Amagi is investigating an extortion threat from a hacker claiming to hold operational and network data. The company has yet to confirm whether customer data was compromised or which clients may be affected. The post…",
+      "url": "https://www.medianama.com/2026/10/223-amagi-media-operational-data-stolen/",
+      "source": "MediaNama",
+      "date": "2026-10-26",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Flipkart’s Summer Of Discontent",
-      "summary": "Questions over an IPO and ESOPs, huge investments in quick commerce and food delivery and the pressure to deliver profits:…",
-      "url": "https://inc42.com/features/flipkarts-summer-of-discontent/",
-      "source": "Inc42",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch AI",
       "date": "2026-10-25",
       "category": "General",
-      "region": "India"
+      "region": "Global"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-25",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-25",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI,…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge AI",
+      "date": "2026-10-25",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Google’s AI search changes upended online publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM…",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge AI",
+      "date": "2026-10-25",
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
@@ -61,51 +106,6 @@
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "source": "TechCrunch AI",
       "date": "2026-10-24",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image,…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "source": "The Verge AI",
-      "date": "2026-10-24",
-      "category": "Tech",
-      "region": "Global"
-    },
-    {
-      "title": "Block’s new voice model sounds eerily human",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-24",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-24",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-24",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-23",
       "category": "General",
       "region": "Global"
     }

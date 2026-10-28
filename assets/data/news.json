@@ -1,112 +1,112 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "items": [
     {
-      "title": "How solid-state transformers could help power the AI boom",
-      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t…",
-      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-27",
+      "title": "Akamai Launches AI Inference and Agent Sandbox Services",
+      "summary": "The services are part of Akamai’s strategy to offer infrastructure for building, running and securing AI applications on a single platform.",
+      "url": "https://analyticsindiamag.com/ai-news/akamai-launches-ai-inference-and-agent-sandbox-services",
+      "source": "Analytics India Magazine",
+      "date": "2026-10-28",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "OpenAI Sued Over ChatGPT’s Alleged Role in Woman’s Death After Seizure Medication Taper",
+      "summary": "The lawsuit alleges GPT-4o generated a plan to reduce Bowen Wan’s epilepsy medication and encouraged her to conceal the changes from her doctors.",
+      "url": "https://analyticsindiamag.com/ai-news/openai-sued-over-chatgpts-alleged-role-in-womans-death-after-seizure-medication-taper",
+      "source": "Analytics India Magazine",
+      "date": "2026-10-28",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Live2.ai Raises ₹130 Cr in Pre-Series B Round Led by IvyCap Ventures",
+      "summary": "Live2.ai raises ₹130 crore in pre-Series B funding to enhance its AI platform and expand operations globally across multiple regions.",
+      "url": "https://analyticsindiamag.com/ai-news/live2ai-raises-130-cr-in-pre-series-b-round-led-by-ivycap-ventures",
+      "source": "Analytics India Magazine",
+      "date": "2026-10-28",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "This Bengaluru Startup Is Building AI Agents for Hardware Design",
+      "summary": "The startup integrates AI into existing hardware design tools to automate circuit design, validation and debugging while keeping engineers in control of key dec",
+      "url": "https://analyticsindiamag.com/ai-startups/this-bengaluru-startup-is-building-ai-agents-for-hardware-design",
+      "source": "Analytics India Magazine",
+      "date": "2026-10-28",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Sanjeev Bikhchandani To Take Over As Info Edge Group CEO, Hitesh Oberoi Steps Down",
+      "summary": "Naukri parent Info Edge said founder and vice chairman Sanjeev Bikhchandani will take over as executive vice chairman, MD and…",
+      "url": "https://inc42.com/buzz/sanjeev-bikhchandani-to-take-over-as-info-edge-group-ceo-hitesh-oberoi-steps-down/",
+      "source": "Inc42",
+      "date": "2026-10-28",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-28",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Bihar gives Ola, Uber, Rapido until Oct 30 to be more transparent or lose licences",
-      "summary": "After chairing a compliance review meeting, the transport secretary of Bihar said app cab companies have to take measures on issues like fare transparency, driver grievances by Oct 30 or lose their licences. The post…",
-      "url": "https://www.medianama.com/2026/10/223-bihar-ola-uber-rapido-transparent-licences/",
-      "source": "MediaNama",
-      "date": "2026-10-27",
-      "category": "Tech",
-      "region": "India"
-    },
-    {
-      "title": "AI cybersecurity doomsday, or a case of FUD",
-      "summary": "October 2026’s security scare had people blaming AI for everything. A closer look at the PHP CVE, Railway, eMudhra and LiteLLM shows human error, not AI-powered attackers, was the real story. The post AI cybersecurity…",
-      "url": "https://www.medianama.com/2026/10/223-ai-cybersecurity-doomsday-fud/",
-      "source": "MediaNama",
-      "date": "2026-10-27",
-      "category": "Tech",
-      "region": "India"
-    },
-    {
-      "title": "Cent Raises $15 Mn To Scale AI-Led Preventive Healthcare Platform",
-      "summary": "Healthtech startup Cent, launched by Practo cofounder Shashank ND earlier this year, announced the raise of $15 Mn (about ₹143…",
-      "url": "https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/",
-      "source": "Inc42",
-      "date": "2026-10-27",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Ministry Of Defence Partners With Sarvam To Drive AI Adoption For Armed Forces",
-      "summary": "Sarvam has signed a memorandum of understanding (MoU) with the Ministry of Defence (MoD) to advance AI adoption across Indian…",
-      "url": "https://inc42.com/buzz/ministry-of-defence-partners-with-sarvam-to-drive-ai-adoption-for-armed-forces/",
-      "source": "Inc42",
-      "date": "2026-10-27",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Baillie Gifford Funds Slash Value Of Holdings In Dailyhunt Parent VerSe By Up To 80%",
-      "summary": "VerSe Innovation, the parent of news aggregator Dailyhunt and short-video platform Josh, has seen two investment funds managed by Baillie…",
-      "url": "https://inc42.com/buzz/baillie-gifford-funds-slash-value-of-holdings-in-dailyhunt-parent-verse-by-up-to-80/",
-      "source": "Inc42",
-      "date": "2026-10-27",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
       "source": "TechCrunch AI",
       "date": "2026-10-27",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how…",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
       "source": "TechCrunch AI",
       "date": "2026-10-27",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science,…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "source": "The Verge AI",
-      "date": "2026-10-26",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-27",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "source": "The Verge AI",
-      "date": "2026-10-26",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-27",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Will the real Anthropic please stand up",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The…",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-26",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "source": "The Verge AI",
+      "date": "2026-10-27",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "The RealReal won’t let AI agents hog designer clothing",
-      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported…",
-      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "source": "The Verge AI",
-      "date": "2026-10-26",
-      "category": "Tech",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-27",
+      "category": "General",
       "region": "Global"
     }
   ]

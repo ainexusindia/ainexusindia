@@ -1,112 +1,112 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "items": [
     {
-      "title": "Akamai Launches AI Inference and Agent Sandbox Services",
-      "summary": "The services are part of Akamai’s strategy to offer infrastructure for building, running and securing AI applications on a single platform.",
-      "url": "https://analyticsindiamag.com/ai-news/akamai-launches-ai-inference-and-agent-sandbox-services",
+      "title": "Coforge Introduces Autonomous Software Factory to Coordinate AI Agents",
+      "summary": "The IT services firm has not disclosed customer deployments or quantified gains from its new model for AI-driven software engineering.",
+      "url": "https://analyticsindiamag.com/ai-news/coforge-introduces-autonomous-software-factory-to-coordinate-ai-agents",
       "source": "Analytics India Magazine",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "AI has come for Arizona’s water",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The…",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "source": "The Verge AI",
+      "date": "2026-10-29",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Our climate models have a big, dangerous blind spot",
+      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in…",
+      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-29",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "The Economics of Continuous Inference",
+      "summary": "An AI model may prove its capabilities during evaluation, but the real test begins when users start using it at scale. Inference is not a one-time compute event",
+      "url": "https://analyticsindiamag.com/ai-highlights/the-economics-of-continuous-inference",
+      "source": "Analytics India Magazine",
+      "date": "2026-10-29",
       "category": "Tech",
       "region": "India"
     },
     {
-      "title": "OpenAI Sued Over ChatGPT’s Alleged Role in Woman’s Death After Seizure Medication Taper",
-      "summary": "The lawsuit alleges GPT-4o generated a plan to reduce Bowen Wan’s epilepsy medication and encouraged her to conceal the changes from her doctors.",
-      "url": "https://analyticsindiamag.com/ai-news/openai-sued-over-chatgpts-alleged-role-in-womans-death-after-seizure-medication-taper",
-      "source": "Analytics India Magazine",
-      "date": "2026-10-28",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Live2.ai Raises ₹130 Cr in Pre-Series B Round Led by IvyCap Ventures",
-      "summary": "Live2.ai raises ₹130 crore in pre-Series B funding to enhance its AI platform and expand operations globally across multiple regions.",
-      "url": "https://analyticsindiamag.com/ai-news/live2ai-raises-130-cr-in-pre-series-b-round-led-by-ivycap-ventures",
-      "source": "Analytics India Magazine",
-      "date": "2026-10-28",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "This Bengaluru Startup Is Building AI Agents for Hardware Design",
-      "summary": "The startup integrates AI into existing hardware design tools to automate circuit design, validation and debugging while keeping engineers in control of key dec",
-      "url": "https://analyticsindiamag.com/ai-startups/this-bengaluru-startup-is-building-ai-agents-for-hardware-design",
-      "source": "Analytics India Magazine",
-      "date": "2026-10-28",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Sanjeev Bikhchandani To Take Over As Info Edge Group CEO, Hitesh Oberoi Steps Down",
-      "summary": "Naukri parent Info Edge said founder and vice chairman Sanjeev Bikhchandani will take over as executive vice chairman, MD and…",
-      "url": "https://inc42.com/buzz/sanjeev-bikhchandani-to-take-over-as-info-edge-group-ceo-hitesh-oberoi-steps-down/",
+      "title": "BlackBuck Q2: Profit Rises 42% YoY To ₹41 Cr, Revenue Jumps 56%",
+      "summary": "Trucking platform BlackBuck reported a 41.8% jump in consolidated net profit to ₹41.4 Cr in the September quarter of FY27…",
+      "url": "https://inc42.com/buzz/blackbuck-q2-profit-rises-42-yoy-to-%e2%82%b941-cr-revenue-jumps-56/",
       "source": "Inc42",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Shadowfax Q2 Profit Zooms Over 5X YoY To ₹68 Cr, Revenue Crosses ₹1,500 Cr",
+      "summary": "Logistics company Shadowfax reported an over 5X year-on-year (YoY) jump in its net profit for the September quarter (Q2 FY27)…",
+      "url": "https://inc42.com/buzz/shadowfax-q2-profit-zooms-over-5x-yoy-to-%e2%82%b968-cr-revenue-crosses-%e2%82%b91500-cr/",
+      "source": "Inc42",
+      "date": "2026-10-29",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Sell first, build second, automate last: A solo founder’s playbook for the AI era",
+      "summary": "Hostinger’s Emilis Strimaitis on why founders who build first still fail faster, and the seven-step process that puts customers before code",
+      "url": "https://yourstory.com/2026/10/sell-first-build-second-automate-last-a-solo-founders-playbook-for-the-ai-era",
+      "source": "YourStory",
+      "date": "2026-10-29",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source": "The Verge AI",
+      "date": "2026-10-28",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
       "source": "TechCrunch AI",
       "date": "2026-10-28",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
       "source": "TechCrunch AI",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
+      "category": "Tech",
+      "region": "Global"
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of…",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch AI",
+      "date": "2026-10-28",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-27",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-27",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-27",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom…",
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
       "source": "The Verge AI",
-      "date": "2026-10-27",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-27",
-      "category": "General",
+      "date": "2026-10-28",
+      "category": "Tech",
       "region": "Global"
     }
   ]

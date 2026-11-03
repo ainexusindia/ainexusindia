@@ -1,112 +1,112 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "items": [
     {
-      "title": "OpenAI Signs Four Agreements With Abu Dhabi Across Government, Energy And Investment",
-      "summary": "ADNOC will use GPT models for operational decision-making, while Abu Dhabi is piloting AI-powered food import compliance checks.",
-      "url": "https://analyticsindiamag.com/ai-news/openai-signs-four-agreements-with-abu-dhabi-across-government-energy-and-investment",
-      "source": "Analytics India Magazine",
-      "date": "2026-11-02",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Beyond funding: Why every startup founder needs an insurance plan",
-      "summary": "From personal term insurance to keyman and employee cover, here's how insurance solutions can help entrepreneurs protect their families, businesses, and teams. Most founders are equity-rich and cash-poor, with household…",
-      "url": "https://yourstory.com/2026/10/beyond-funding-why-every-startup-founder-needs-an-insurance-plan",
-      "source": "YourStory",
-      "date": "2026-11-02",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "MobiKwik posts Rs 11.83 Cr profit in Q2 of FY27",
-      "summary": "MobiKwik’s revenue grew 9.4% in Q2 FY27, driven by higher gross merchandise value (GMV) and improved margins.",
-      "url": "https://yourstory.com/2026/11/mobikwik-posts-rs-1183-cr-profit-in-q2-of-fy27",
-      "source": "YourStory",
-      "date": "2026-11-02",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "From prompt engineers to tool builders: Intuit’s Vignesh Subrahmaniam on building AI that acts",
-      "summary": "At TechSparks 2026, Intuit’s Principal AI Scientist explained why reliable tools, high-quality data, and consent matter more than ever as AI moves from answering to acting",
-      "url": "https://yourstory.com/2026/11/prompt-engineers-tool-builders-intuits-vignesh-subrahmaniam-building-ai-acts",
-      "source": "YourStory",
-      "date": "2026-11-02",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Police seek X takedowns against IFF, SFLC.in and @geoblockedindia after notices to stop tracking blocking orders",
-      "summary": "Three free speech organisations have received legal notifications from X. But the requests leave a fundamental question unanswered: which law did they allegedly violate? The post Police seek X takedowns against IFF,…",
-      "url": "https://www.medianama.com/2026/11/223-police-x-legal-requests-iff-sflc-geoblockedindia/",
-      "source": "MediaNama",
-      "date": "2026-11-02",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "The agentic web is here",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he…",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "summary": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling…",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
       "source": "MIT Technology Review",
+      "date": "2026-11-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "India's next space unicorn may still be in college",
+      "summary": "India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately developed Indian rocket to reach orbit.…",
+      "url": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
+      "source": "YourStory",
+      "date": "2026-11-03",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "GIVA Raises ₹975 Cr Led By Multiples PE, Eyes 160 New Stores In FY27",
+      "summary": "Bengaluru-based D2C jewellery brand GIVA has raised ₹975 Cr (about $103 Mn) in a funding round led by Multiples Alternate…",
+      "url": "https://inc42.com/buzz/giva-raises-%e2%82%b9975-cr-led-by-multiples-pe-eyes-160-new-stores-in-fy27/",
+      "source": "Inc42",
+      "date": "2026-11-03",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Journalist Prerit Chauhan to sue YouTube over channel ban that extends to other channels",
+      "summary": "Journalist Prerit Chauhan plans to sue YouTube after it terminated his channel and barred him from appearing prominently on other channels, raising concerns about his livelihood and press freedom. The post Journalist…",
+      "url": "https://www.medianama.com/2026/11/223-journalist-prerit-chauhan-sue-youtube-channel-ban/",
+      "source": "MediaNama",
+      "date": "2026-11-03",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Mobavenue Q2 Profit Rises 54% YoY To ₹11.3 Cr, Revenue Up 41%",
+      "summary": "Adtech company Mobavenue, formerly known as Lucent Industries, reported a 54.4% jump in its consolidated net profit to ₹11.3 Cr…",
+      "url": "https://inc42.com/buzz/mobavenue-q2-profit-rises-54-yoy-to-%e2%82%b911-3-cr-revenue-up-41/",
+      "source": "Inc42",
+      "date": "2026-11-03",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Does the World Need a New GitHub?",
+      "summary": "GitHub has not only added 4 million CPU cores and 160 PB of internal storage, but it is also rebuilding core Git primitives by decoupling compute from sto",
+      "url": "https://analyticsindiamag.com/ai-features/does-the-world-need-a-new-github",
+      "source": "Analytics India Magazine",
+      "date": "2026-11-03",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained…",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-03",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast,…",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-03",
+      "category": "Tech",
+      "region": "Global"
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch AI",
       "date": "2026-11-02",
       "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-01",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-01",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-31",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup.…",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-31",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-31",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source": "TechCrunch AI",
-      "date": "2026-10-31",
-      "category": "Tech",
       "region": "Global"
     }
   ]

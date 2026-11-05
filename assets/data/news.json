@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-05",
   "items": [
     {
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "summary": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling…",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-03",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "India's next space unicorn may still be in college",
-      "summary": "India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately developed Indian rocket to reach orbit.…",
-      "url": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
+      "title": "Why AI’s biggest challenge lies beneath the model",
+      "summary": "At TechSparks 2026, Michael Cronin of Couchbase explained why fragmented data infrastructure remains a major barrier to enterprise AI adoption and why companies need to fix their data systems before scaling AI…",
+      "url": "https://yourstory.com/2026/11/why-ai-biggest-challenge-lies-beneath-model",
       "source": "YourStory",
-      "date": "2026-11-03",
+      "date": "2026-11-05",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "GIVA Raises ₹975 Cr Led By Multiples PE, Eyes 160 New Stores In FY27",
-      "summary": "Bengaluru-based D2C jewellery brand GIVA has raised ₹975 Cr (about $103 Mn) in a funding round led by Multiples Alternate…",
-      "url": "https://inc42.com/buzz/giva-raises-%e2%82%b9975-cr-led-by-multiples-pe-eyes-160-new-stores-in-fy27/",
-      "source": "Inc42",
-      "date": "2026-11-03",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Journalist Prerit Chauhan to sue YouTube over channel ban that extends to other channels",
-      "summary": "Journalist Prerit Chauhan plans to sue YouTube after it terminated his channel and barred him from appearing prominently on other channels, raising concerns about his livelihood and press freedom. The post Journalist…",
-      "url": "https://www.medianama.com/2026/11/223-journalist-prerit-chauhan-sue-youtube-channel-ban/",
+      "title": "Agenda: Technical Issues with SIM Binding, Online, Friday, 13 November #NAMA",
+      "summary": "MediaNama’s invite-only roundtable on November 13 will examine the technical feasibility of SIM binding, implementation challenges across devices and platforms, and its effectiveness in preventing fraud. The post…",
+      "url": "https://www.medianama.com/2026/11/223-agenda-technical-issues-sim-binding-nama/",
       "source": "MediaNama",
-      "date": "2026-11-03",
+      "date": "2026-11-05",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Mobavenue Q2 Profit Rises 54% YoY To ₹11.3 Cr, Revenue Up 41%",
-      "summary": "Adtech company Mobavenue, formerly known as Lucent Industries, reported a 54.4% jump in its consolidated net profit to ₹11.3 Cr…",
-      "url": "https://inc42.com/buzz/mobavenue-q2-profit-rises-54-yoy-to-%e2%82%b911-3-cr-revenue-up-41/",
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "source": "The Verge AI",
+      "date": "2026-11-05",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "VC funding into Indian B2C ecommerce companies dips 33%: Tracxn",
+      "summary": "Late- and seed-stage funding nearly halved in the period between January 1 and November 3 this year, while early-stage funding remained stable compared to last year.",
+      "url": "https://yourstory.com/2026/11/vc-funding-into-indian-b2c-ecommerce-companies-dips-33-tracxn",
+      "source": "YourStory",
+      "date": "2026-11-05",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Spacetech Startup Cosmoserve Nets $6 Mn, Eyes Commercialisation By 2028",
+      "summary": "Cosmoserve Space has raised $6 Mn in a seed funding round led by Japan-based Rebright Partners. While Aranya Holdings and…",
+      "url": "https://inc42.com/buzz/spacetech-startup-cosmoserve-nets-6-mn-eyes-commercialisation-by-2028/",
       "source": "Inc42",
-      "date": "2026-11-03",
-      "category": "Tech",
-      "region": "India"
-    },
-    {
-      "title": "Does the World Need a New GitHub?",
-      "summary": "GitHub has not only added 4 million CPU cores and 160 PB of internal storage, but it is also rebuilding core Git primitives by decoupling compute from sto",
-      "url": "https://analyticsindiamag.com/ai-features/does-the-world-need-a-new-github",
-      "source": "Analytics India Magazine",
-      "date": "2026-11-03",
-      "category": "Tech",
-      "region": "India"
-    },
-    {
-      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-03",
+      "date": "2026-11-05",
       "category": "General",
-      "region": "Global"
+      "region": "India"
     },
     {
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained…",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "title": "Sarvam’s Prism Enters India’s Growing AI Decision Model Race",
+      "summary": "AI models are increasingly being built to do more than answer questions. Some are now designed to make specific decisions,…",
+      "url": "https://inc42.com/features/sarvams-prism-enters-indias-growing-ai-decision-model-race/",
+      "source": "Inc42",
+      "date": "2026-11-05",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the…",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
       "source": "MIT Technology Review",
-      "date": "2026-11-03",
+      "date": "2026-11-05",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
       "source": "TechCrunch AI",
-      "date": "2026-11-03",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-03",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast,…",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-03",
+      "date": "2026-11-05",
       "category": "Tech",
       "region": "Global"
     },
     {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
       "source": "TechCrunch AI",
-      "date": "2026-11-02",
+      "date": "2026-11-05",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-04",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "source": "The Verge AI",
+      "date": "2026-11-04",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-04",
       "category": "General",
       "region": "Global"
     }

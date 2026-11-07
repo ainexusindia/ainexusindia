@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "items": [
     {
-      "title": "MakeMyTrip enters shared mobility space with majority stake in Quick Ride",
-      "summary": "MakeMyTrip has acquired the Quick Ride brand and its ride pooling business with a majority stake in this entity.",
-      "url": "https://yourstory.com/2026/11/makemytrip-enters-shared-mobility-space-with-majority-stake-quick-ride",
+      "title": "VibeCode30 2026: The 30 AI-built products to watch from India",
+      "summary": "From healthcare and education to housing, travel, and developer tools, YourStory's inaugural VibeCode30 spotlights 30 live products showing how AI is making software development accessible to a new generation of…",
+      "url": "https://yourstory.com/2026/11/vibecode30-2026-30-ai-built-products-india-new-builders",
       "source": "YourStory",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Govt clears 12 more proposals worth over Rs 7,500 Cr under electronics components scheme",
-      "summary": "The government also launched the Semicon 2.0 web application portal under the ambitious Semicon India Programme.",
-      "url": "https://yourstory.com/2026/11/govt-clears-12-proposals-rs-7500-cr-electronics-components-scheme",
-      "source": "YourStory",
-      "date": "2026-11-06",
+      "title": "From GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week",
+      "summary": "Startup funding activity gathered steam in the first week of November. As per Inc42 data, 20 Indian startups cumulatively raised…",
+      "url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
+      "source": "Inc42",
+      "date": "2026-11-07",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Delhi HC Upholds BharatPe’s Veto Rights In Unity SFB Shareholding Dispute",
-      "summary": "Adding another layer to the ongoing shareholder dispute at BharatPe-backed Unity Small Finance Bank (SFB), the Delhi High Court (HC)…",
-      "url": "https://inc42.com/buzz/delhi-hc-upholds-bharatpes-veto-rights-in-unity-sfb-shareholding-dispute/",
+      "title": "Mamaearth parent’s profit surges 87%; Goyal defends Temple amid backlash",
+      "summary": "Honasa Consumer, the parent company of Mamaearth, registered an 87% YoY rise in net profit for Q2FY27, while revenue rose 36%. In other news, Deepinder Goyal has posted a series of updates on X amid backlash from some…",
+      "url": "https://yourstory.com/2026/11/mamaearth-parent-profit-surges-goyal-defends-temple-amid-backlash",
+      "source": "YourStory",
+      "date": "2026-11-07",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-07",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "OYO Parent PRISM’s Profit Jumps 17% YoY To ₹353 Cr In Q1",
+      "summary": "IPO-bound hospitality chain PRISM, the parent entity of OYO, reported a consolidated profit after tax (PAT) of ₹353 Cr in…",
+      "url": "https://inc42.com/buzz/oyo-parent-prisms-profit-jumps-17-yoy-to-%e2%82%b9353-cr-in-q1/",
+      "source": "Inc42",
+      "date": "2026-11-07",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge AI",
+      "date": "2026-11-06",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about…",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "source": "The Verge AI",
+      "date": "2026-11-06",
+      "category": "Tech",
+      "region": "Global"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-06",
+      "category": "Tech",
+      "region": "Global"
+    },
+    {
+      "title": "All the latest updates on AI data centers",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "source": "The Verge AI",
+      "date": "2026-11-06",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "ED Searches CoinDCX & Delta Exchange Over Alleged Illegal Cross-Border Transfers",
+      "summary": "The Enforcement Directorate (ED) conducted searches at three premises linked to crypto exchanges CoinDCX and Delta Exchange India (DEI) over…",
+      "url": "https://inc42.com/buzz/ed-searches-coindcx-delta-exchange-over-alleged-illegal-cross-border-transfers/",
       "source": "Inc42",
       "date": "2026-11-06",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new…",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-06",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "AI’s ability to find cyber flaws outpacing firms’ capacity to fix them: Palo Alto Networks' Nikesh Arora",
-      "summary": "Nikesh Arora, Chairman and CEO of Palo Alto Networks, has called for faster and more collaborative approaches to vulnerability management.",
-      "url": "https://yourstory.com/2026/11/ai-cyber-flaws-outpacing-firms-capacity-to-fix-palo-alto-networks-nikesh-arora",
-      "source": "YourStory",
-      "date": "2026-11-06",
-      "category": "Tech",
-      "region": "India"
-    },
-    {
-      "title": "Startup news and updates: Daily roundup (November 6, 2026)",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, November 06, 2026.",
-      "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-6-2026",
-      "source": "YourStory",
-      "date": "2026-11-06",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "source": "TechCrunch AI",
       "date": "2026-11-06",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "source": "The Verge AI",
-      "date": "2026-11-06",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Airbnb is working on an AI travel agent",
-      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at…",
-      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "source": "The Verge AI",
-      "date": "2026-11-06",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
       "source": "TechCrunch AI",
-      "date": "2026-11-05",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Perplexity launches its own take on AI agents for work",
-      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "source": "The Verge AI",
-      "date": "2026-11-05",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "category": "General",
       "region": "Global"
     }

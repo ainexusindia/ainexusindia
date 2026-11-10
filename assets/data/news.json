@@ -1,112 +1,112 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "items": [
     {
-      "title": "Adobe’s CX Enterprise Coworker Gets Embedded Within Leading AI Platforms",
-      "summary": "The software firm said its CX Enterprise Coworker agentic AI will be embedded in ChatGPT as a plugin, Claude, Databricks Genie, Gemini for business, and Microso",
-      "url": "https://analyticsindiamag.com/ai-news/adobes-cx-enterprise-coworker-gets-embedded-within-leading-ai-platforms",
-      "source": "Analytics India Magazine",
-      "date": "2026-11-09",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Sarvam AI Appoints Ex-Google Cloud India MD Sashikumar Sreedharan as President and CBO",
-      "summary": "The appointment comes as Sarvam looks to scale its presence across enterprise and government customers, with more than 100 institutions already using its AI off",
-      "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-appoints-ex-google-cloud-india-md-sashikumar-sreedharan-as-president-and-cbo",
-      "source": "Analytics India Magazine",
-      "date": "2026-11-09",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "EXL Acquires Aimpoint Digital, Adds 250 AI and Data Experts",
-      "summary": "The acquisition adds around 250 AI engineers, platform architects, analytics consultants, decision scientists and AI strategists to EXL’s workforce.",
-      "url": "https://analyticsindiamag.com/ai-news/exl-acquires-aimpoint-digital-adds-250-ai-and-data-experts",
-      "source": "Analytics India Magazine",
-      "date": "2026-11-09",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Coforge Joins SpaceX Network to Develop Industry-Specific Grok Applications",
-      "summary": "Momentuum blue, Coforge’s FDE unit, will handle deployments using teams of engineers and AI agents embedded within client organisations.",
-      "url": "https://analyticsindiamag.com/ai-news/coforge-joins-spacex-network-to-develop-industry-specific-grok-applications",
-      "source": "Analytics India Magazine",
-      "date": "2026-11-09",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Sarvam names Google Cloud India head Sashikumar Sreedharan as president & chief business officer",
-      "summary": "BIZ-SARVAM-APPT 03:19 PM, 09 Nov 2026 266 Words New Delhi, Nov 9 (PTI) Indian AI company Sarvam on Monday announced that Sashikumar Sreedharan, most recently Managing Director for India at Google Cloud, has joined as…",
-      "url": "https://yourstory.com/2026/11/sarvam-google-cloud-india-head-sashikumar-sreedharan-president-cbo",
+      "title": "OpenAI unveils a 'Control Room' safety feature that shuts down AI agents from going rogue in 35 seconds",
+      "summary": "OpenAI said Control Room will connect every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. It will work together with its misalignment monitoring…",
+      "url": "https://yourstory.com/2026/11/openai-unveils-control-room-feature-stops-ai-safety-security-concerns-35-seconds",
       "source": "YourStory",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Explained: Australia weighs criminal offence for AI companies that fail to prevent harm from their models",
+      "summary": "The Australian govt released 18 recommendations including penalties for frontier AI companies for failing to prevent harm caused by their AI models, after review of an incident where an OpenAI agent got into the govt…",
+      "url": "https://www.medianama.com/2026/11/223-australia-criminal-offence-ai-companies-harm-models/",
+      "source": "MediaNama",
+      "date": "2026-11-10",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "The climate case for AI has not been made",
-      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to…",
-      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-09",
-      "category": "General",
-      "region": "Global"
+      "title": "Gartner Introduces Framework for CIOs to Determine AI Outcomes",
+      "summary": "Gartner said its Value-Risk Flywheel will help CIOs align AI value with risk, using momentum and drag, with a governor at its centre.",
+      "url": "https://analyticsindiamag.com/ai-news/gartner-introduces-framework-for-cios-to-determine-ai-outcomes",
+      "source": "Analytics India Magazine",
+      "date": "2026-11-10",
+      "category": "Tech",
+      "region": "India"
     },
     {
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "title": "Qantas AI Jobs are Coming to India as Outsourcing Deal Affects 850 Roles",
+      "summary": "Qantas will move some corporate services to Accenture teams in India as part of a technology overhaul that will introduce more automation and AI.",
+      "url": "https://analyticsindiamag.com/ai-news/qantas-ai-jobs-are-coming-to-india-as-outsourcing-deal-affects-850-roles",
+      "source": "Analytics India Magazine",
+      "date": "2026-11-10",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Startup news and updates: daily roundup (November 10, 2026)",
+      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, November 10, 2026.",
+      "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-10-2026",
+      "source": "YourStory",
+      "date": "2026-11-10",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
       "source": "TechCrunch AI",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "source": "The Verge AI",
-      "date": "2026-11-08",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
       "source": "TechCrunch AI",
-      "date": "2026-11-08",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "source": "The Verge AI",
-      "date": "2026-11-08",
+      "date": "2026-11-10",
       "category": "Tech",
       "region": "Global"
     },
     {
-      "title": "Apple is racing to make Siri more agentic",
-      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI,…",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
       "source": "The Verge AI",
-      "date": "2026-11-08",
+      "date": "2026-11-10",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "title": "What could China get from Jensen Huang?",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years.…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
       "source": "The Verge AI",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had…",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "source": "The Verge AI",
+      "date": "2026-11-09",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-09",
+      "category": "Tech",
+      "region": "Global"
+    },
+    {
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge AI",
+      "date": "2026-11-09",
+      "category": "Tech",
       "region": "Global"
     }
   ]

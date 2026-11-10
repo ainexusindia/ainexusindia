@@ -1,0 +1,20 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>Portfolio updater</title>
+<style>body{font:16px/1.6 system-ui;background:#0B1220;color:#F4F5F7;max-width:640px;margin:0 auto;padding:20px}label{display:block;margin-top:14px;font-size:.9rem;color:#A8B0BF}input,textarea,select{width:100%;padding:10px;background:#141C2B;border:1px solid #26324a;color:#fff;border-radius:6px;font:inherit}button{margin-top:16px;padding:12px 20px;border:0;border-radius:6px;background:#22F0CC;font-weight:700;cursor:pointer}pre{background:#141C2B;padding:12px;white-space:pre-wrap;word-break:break-all;border-radius:6px}a{color:#22F0CC}.t label{display:inline-block;margin-right:12px}.t input{width:auto}</style></head><body>
+<h1>Portfolio updater</h1>
+<p>Fill the form, copy the snippet, then paste it into <a id="ed" href="#" target="_blank">content.json on GitHub</a> (pencil icon, then Commit). Videos and Shorts on your channel also appear automatically in "Latest from the channel".</p>
+<label>What are you adding?<select id="k"><option value="p">Project (video or Short)</option><option value="g">Gallery image</option></select></label>
+<div id="pf"><label>YouTube link (video or Shorts)<input id="u" placeholder="https://www.youtube.com/watch?v=... or /shorts/..."></label>
+<label>Title<input id="ti"></label><label>Category line<input id="ca" placeholder="e.g. Devotional Cinematic Music Video"></label>
+<label>Description<textarea id="de" rows="3"></textarea></label>
+<label>Your contribution (one per line)<textarea id="ro" rows="3"></textarea></label>
+<label>Tools truly used (comma separated)<input id="to"></label>
+<div class="t"><label><input type="checkbox" value="cinematic"> Cinematic</label><label><input type="checkbox" value="myth"> Mythological</label><label><input type="checkbox" value="tech"> AI &amp; Tech</label><label><input type="checkbox" value="cyber"> Cyber</label><label><input type="checkbox" value="edu"> Educational</label></div></div>
+<div id="gf" hidden><label>Image file name (uploaded to portfolio/images/)<input id="fn" placeholder="scene1.jpg"></label><label>Description of the image<input id="al"></label><label>Caption (optional)<input id="cp"></label></div>
+<button id="go">Create snippet</button><pre id="out"></pre><button id="cpy" hidden>Copy</button>
+<script>const $=i=>document.getElementById(i);$("ed").href="https://github.com/ainexusindia/ainexusindia/edit/main/portfolio/content.json";
+$("k").onchange=()=>{$("pf").hidden=$("k").value=="g";$("gf").hidden=$("k").value=="p"};
+$("go").onclick=()=>{let o;if($("k").value=="g"){o={src:"images/"+$("fn").value.trim(),alt:$("al").value,caption:$("cp").value}}else{
+const m=$("u").value.match(/(?:v=|youtu\.be\/|shorts\/|embed\/)([\w-]{11})/);if(!m){$("out").textContent="Please paste a valid YouTube link.";return}
+o={id:m[1],tags:[...document.querySelectorAll(".t input:checked")].map(x=>x.value),title:$("ti").value,cat:$("ca").value,videoId:m[1],tools:$("to").value.split(",").map(s=>s.trim()).filter(Boolean),desc:$("de").value,role:$("ro").value.split("\n").map(s=>s.trim()).filter(Boolean)}}
+$("out").textContent=JSON.stringify(o,null,1)+",";$("cpy").hidden=false};
+$("cpy").onclick=()=>navigator.clipboard.writeText($("out").textContent).then(()=>$("cpy").textContent="Copied");</script></body></html>

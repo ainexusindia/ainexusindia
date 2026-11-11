@@ -9,7 +9,7 @@
    ],
    "title": "ଜୟ ମା ଦୁର୍ଗା | ଗୋଟିଏ ପ୍ରାର୍ଥନାରେ ସବୁ କୃପା | Jaya Maa Durga",
    "cat": "Devotional Cinematic Music Video",
-   "videoId": "",
+   "videoId": "UwdsraM9En8",
    "tools": [],
    "desc": "A cinematic devotional music video built around the emotional and spiritual appeal of Maa Durga, combining AI-assisted visuals, devotional music and cinematic scene composition.",
    "role": [
@@ -18,7 +18,8 @@
     "AI-generated imagery and video",
     "Music and audio integration",
     "Video editing and final presentation"
-   ]
+   ],
+   "featured": true
   },
   {
    "id": "maa-laxmi",
@@ -27,7 +28,7 @@
    ],
    "title": "Maa Laxmi",
    "cat": "Festival and Devotional Visual Storytelling",
-   "videoId": "",
+   "videoId": "n-5MNMdLfoc",
    "tools": [],
    "desc": "An AI-assisted visual story inspired by Maa Laxmi and the devotional atmosphere of Kartika and Laxmi Puja, with a family-oriented narrative and consistent characters and environments.",
    "role": [
@@ -35,7 +36,8 @@
     "Family-oriented narrative and scene design",
     "Character and environment consistency",
     "Cinematic presentation"
-   ]
+   ],
+   "featured": true
   },
   {
    "id": "har-dhaga",
@@ -44,7 +46,7 @@
    ],
    "title": "Har Dhaga Ek Kahani | Saath Bunkar Bana Tiranga | Patriotic Video Song",
    "cat": "Patriotic Cinematic Music Video",
-   "videoId": "",
+   "videoId": "ymMBFsSwlHY",
    "tools": [],
    "desc": "A patriotic visual story about India's unity in diversity. Individual threads come together to weave the Tiranga, a metaphor for togetherness, shared identity, cultural diversity and national pride.",
    "role": [
@@ -54,7 +56,8 @@
     "Visual storytelling and continuity",
     "Music-led narrative presentation",
     "Video editing and creative quality review"
-   ]
+   ],
+   "featured": true
   },
   {
    "id": "durga-gatha",
@@ -63,7 +66,7 @@
    ],
    "title": "ମା ଦୁର୍ଗାଙ୍କ ରହସ୍ୟମୟ ଗାଥା | ମହିଷାସୁର ଓ ବୀର କର୍ଣ୍ଣଙ୍କ ଅଜଣା କଥା | Maa Durga",
    "cat": "Odia Mythological Storytelling",
-   "videoId": "",
+   "videoId": "HACuVea6zaI",
    "tools": [],
    "desc": "An Odia-language mythological storytelling project exploring narratives associated with Maa Durga, Mahishasura and Veer Karna. Presented as mythological storytelling, not as a historical documentary.",
    "role": [
@@ -73,7 +76,8 @@
     "AI-assisted visual creation",
     "Scene and character continuity",
     "Final content review"
-   ]
+   ],
+   "featured": true
   },
   {
    "id": "ai-tech",
@@ -83,7 +87,7 @@
    ],
    "title": "AI and Technology Explainers",
    "cat": "Technology Education and AI Content",
-   "videoId": "",
+   "videoId": "iyPmAdpaXhg",
    "tools": [],
    "desc": "Educational videos explaining artificial intelligence, ChatGPT, emerging AI tools and practical applications in accessible, visually engaging language.",
    "role": [
@@ -92,6 +96,15 @@
     "AI-assisted visual creation",
     "Educational presentation",
     "Editing and quality review"
+   ],
+   "featured": true,
+   "shorts": [
+    "iyPmAdpaXhg",
+    "mb7cuQNJI1w",
+    "8-D7VpT6o5s",
+    "oIb4Ifefs3g",
+    "o-1W5cTD5TM",
+    "KgrGSDtFIKU"
    ]
   },
   {
@@ -102,14 +115,15 @@
    ],
    "title": "Cybersecurity and Digital Awareness",
    "cat": "Educational and Public Awareness Media",
-   "videoId": "",
+   "videoId": "cesurxJ9CSc",
    "tools": [],
    "desc": "Educational content on cybersecurity, online banking fraud, digital safety, smartphone awareness and online risks, told through understandable visual storytelling.",
    "role": [
     "Topic research and scripting",
     "Visual storytelling for complex topics",
     "Editing and quality review"
-   ]
+   ],
+   "featured": false
   },
   {
    "id": "science",
@@ -119,28 +133,21 @@
    ],
    "title": "Science, Innovation and Educational Content",
    "cat": "Science and Technology Communication",
-   "videoId": "",
+   "videoId": "mVvMjbhG_Yw",
    "tools": [],
    "desc": "Educational content on science, innovation, digital literacy and technology awareness for students, professionals and general audiences.",
    "role": [
     "Topic selection and scripting",
     "Educational presentation",
     "Editing and quality review"
-   ]
-  },
-  {
-   "id": "featured",
-   "tags": [
-    "edu",
-    "tech"
    ],
-   "title": "Featured lesson from the AI Nexus India website",
-   "cat": "Educational Content",
-   "videoId": "mb7cuQNJI1w",
-   "tools": [],
-   "desc": "The video featured on the AI Nexus India homepage. Replace this title and description with the real ones.",
-   "role": [],
-   "note": "Video ID taken from the main site embed. Please confirm title and category."
+   "featured": true,
+   "shorts": [
+    "mVvMjbhG_Yw",
+    "oIb4Ifefs3g",
+    "o-1W5cTD5TM",
+    "8-D7VpT6o5s"
+   ]
   }
  ],
  "gallery": []

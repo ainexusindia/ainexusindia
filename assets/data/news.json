@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "items": [
     {
-      "title": "Inside CtrlS’s Massive 4.4 GW Bet on India’s AI and Data Centre Boom",
-      "summary": "CrtlS currently operates 19 data centres and plans to establish more than 20 edge data centres across tier-2 and tier-3 cities.",
-      "url": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
-      "source": "Analytics India Magazine",
-      "date": "2026-11-16",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Karnataka Bets on Physical AI, Deeptech at Bengaluru Tech Summit 2026",
-      "summary": "Bengaluru Tech Summit 2026 aims to extend AI adoption beyond enterprise software into agriculture, biotechnology, gaming, industrial systems, and e-governance.",
-      "url": "https://analyticsindiamag.com/ai-news/karnataka-bets-on-physical-ai-deeptech-at-bengaluru-tech-summit-2026",
-      "source": "Analytics India Magazine",
-      "date": "2026-11-16",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "5 lessons from The Life That's Waiting by Brianna Wiest",
-      "summary": "Discover five meaningful lessons from The Life That's Waiting by Brianna Wiest on self-discovery, emotional healing, happiness, and personal growth.",
-      "url": "https://yourstory.com/2026/11/lessons-brianna-wiest",
-      "source": "YourStory",
-      "date": "2026-11-16",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Karnataka HC refuses to quash case against Razorpay directors over alleged KYC, monitoring, and merchant onboarding lapses",
-      "summary": "The Karnataka High Court has refused to quash SFIO proceedings against Razorpay directors Harshil Mathur and Shashank Kumar over alleged lapses in merchant onboarding, KYC checks and due diligence. The post Karnataka HC…",
-      "url": "https://www.medianama.com/2026/11/223-karnataka-hc-razorpay-kyc-merchant-onboarding-lapses/",
+      "title": "Why SIM binding is the wrong fix for India’s cybercrime problem #NAMA",
+      "summary": "Experts at the MediaNama roundtable on SIM binding like Ritesh Bhatia from V4Web cybersecurity said \"not more than 2% to 3%\" of cybercrimes will be reduced by this measure, while Suman Kar from Banbreach explained how…",
+      "url": "https://www.medianama.com/2026/11/223-sim-binding-wrong-fix-india-cybercrime/",
       "source": "MediaNama",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "India Joins US-Led Pact to Secure AI and Semiconductor Supply Chains",
-      "summary": "The agreement brings 10 countries together to protect critical technologies, diversify supply chains and coordinate investment in AI infrastructure amid",
-      "url": "https://analyticsindiamag.com/ai-news/india-joins-us-led-pact-to-secure-ai-and-semiconductor-supply-chains",
+      "title": "Redbrick Offices raises Rs 630 Cr in equity led by India SME Investments and Abakkus",
+      "summary": "Redbrick said it plans to use the capital to expand its managed offices portfolio from about 6.5 million sq. ft. to more than 10 million sq. ft. over the next 18 to 24 months, while investing in technology, design and…",
+      "url": "https://yourstory.com/2026/11/redbrick-offices-rs-630-crore-india-sme-investments-abakkus",
+      "source": "YourStory",
+      "date": "2026-11-17",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Who Knew What at NVIDIA? Shareholder Suits Put Board’s Oversight on Trial",
+      "summary": "Two shareholder suits and an export-control scrutiny focus on what NVIDIA knew about Huang’s ties and when, and what holds for its future.",
+      "url": "https://analyticsindiamag.com/global-tech/who-knew-what-at-nvidia-shareholder-suits-put-boards-oversight-on-trial",
       "source": "Analytics India Magazine",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Apple launches new app to study how people use AI for health",
-      "summary": "Apple's new app for a study will answer everyday medical questions",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "title": "Rediff Files Updated IPO Papers For ₹600 Cr Fresh Issue-Only IPO",
+      "summary": "AvenuesAI subsidiary Rediff has filed its updated draft IPO papers with the SEBI about two months after the regulator cleared…",
+      "url": "https://inc42.com/buzz/rediff-files-updated-ipo-papers-for-%e2%82%b9600-cr-fresh-issue-only-ipo/",
+      "source": "Inc42",
+      "date": "2026-11-17",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "How AI could reshape jobs, investing, and wealth creation in India",
+      "summary": "At TechSparks 2026, Angel One Group CEO Ambarish Kenghe discussed how AI could change the nature of work, make investing more accessible, and create opportunities in healthcare, transportation, fintech and beyond.",
+      "url": "https://yourstory.com/2026/11/how-ai-could-reshape-jobs-investing-and-wealth-creation-in-india",
+      "source": "YourStory",
+      "date": "2026-11-17",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
       "source": "TechCrunch AI",
       "date": "2026-11-16",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI…",
-      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board…",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
       "source": "The Verge AI",
       "date": "2026-11-16",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number…",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
       "source": "TechCrunch AI",
-      "date": "2026-11-15",
-      "category": "General",
+      "date": "2026-11-16",
+      "category": "Tech",
       "region": "Global"
     },
     {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-15",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments…",
-      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
       "source": "The Verge AI",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-15",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
       "source": "The Verge AI",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call…",
+      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "source": "The Verge AI",
+      "date": "2026-11-16",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "US data centers now burn more electricity than a midsized country",
+      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "source": "The Verge AI",
+      "date": "2026-11-16",
       "category": "General",
       "region": "Global"
     }

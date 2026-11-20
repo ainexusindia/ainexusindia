@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "items": [
     {
-      "title": "Gen Z’s guide to self-improvement: Build habits that pay off",
-      "summary": "Explore practical self-improvement habits for Gen Z that improve focus, confidence, productivity and personal growth while delivering long-term results.",
-      "url": "https://yourstory.com/2026/11/gen-z-guide-to-self-improvement",
-      "source": "YourStory",
-      "date": "2026-11-19",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "InPrime Finserv raises Rs 101 Cr in Series B round led by FMO",
-      "summary": "InPrime will use the funding to expand its reach and improve its technology stack, especially in AI use cases.",
-      "url": "https://yourstory.com/2026/11/inprime-finserv-raises-rs-101-cr-in-series-b-round-led-by-fmo",
-      "source": "YourStory",
-      "date": "2026-11-19",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "What a billion-dollar deal says about the US battery market",
-      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer,…",
-      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-19",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Wadhwani AI Joins LinkedIn to Train 2,000 Northeast SMEs in AI",
-      "summary": "The 12-month programme will help small and micro entrepreneurs across five northeastern states apply AI to marketing, customer engagement, and business",
-      "url": "https://analyticsindiamag.com/ai-news/wadhwani-ai-and-linkedin-partner-to-train-2000-northeast-entrepreneurs",
+      "title": "Logic Pursuits Certified as Best Firm for Data Engineers",
+      "summary": "Analytics India Magazine certifies Logic Pursuits as a Best Firm for Data Engineers, highlighting its cloud-native capabilities, global delivery model, and",
+      "url": "https://analyticsindiamag.com/ai-highlights/logic-pursuits-certified-as-best-firm-for-data-engineers",
       "source": "Analytics India Magazine",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Refunds to app wallets without consent may be a dark pattern, consumer commission says in JioMart case",
-      "summary": "JioMart sent Re 1 from each refund to a reward wallet despite promising to return the money to the customer's original payment method. The post Refunds to app wallets without consent may be a dark pattern, consumer…",
-      "url": "https://www.medianama.com/2026/11/223-jiomart-dark-pattern-refund-consumer-case/",
-      "source": "MediaNama",
-      "date": "2026-11-19",
+      "title": "Why Banks Are Betting on AI Orchestration Over Autonomy",
+      "summary": "The financial services industry places the onus not on a technology's ability to automate a task, but on whether there is sufficient reason and flexibility to",
+      "url": "https://analyticsindiamag.com/ai-highlights/why-banks-are-betting-on-ai-orchestration-over-autonomy",
+      "source": "Analytics India Magazine",
+      "date": "2026-11-20",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Disseqt AI raises $8M to build enterprise AI safeguards",
-      "summary": "The funds will support the expansion of Disseqt’s enterprise customer base globally. The company is also hiring in India across sales, operations and technology, with plans to expand into London.",
-      "url": "https://yourstory.com/2026/11/disseqt-ai-raises-8m-to-build-enterprise-ai-safeguards",
+      "title": "7 Bryan Johnson longevity habits anyone can afford",
+      "summary": "Explore seven affordable longevity habits inspired by Bryan Johnson, from better sleep and daily exercise to balanced eating and stress management.",
+      "url": "https://yourstory.com/2026/11/7-bryan-johnson-longevity-habits-anyone-can-afford",
       "source": "YourStory",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short…",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "title": "UPI PIN doesn’t prove a customer authorised a transaction: Telangana consumer commission",
+      "summary": "As per the Telangana State Consumer Disputes Redressal Commission (TSDRC) banks have to produce concrete evidence that the account holder consented to the transfer, a UPI PIN doesn't prove customer authorised the…",
+      "url": "https://www.medianama.com/2026/11/223-upi-pin-authorised-transaction-telangana-consumer-commission/",
+      "source": "MediaNama",
+      "date": "2026-11-20",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Spacetech firm SatSure raises Rs 60 Cr from Antariksh fund",
+      "summary": "SatSure’s Rs 60 crore investment from India’s dedicated spacetech fund will support satellite development, AI capabilities and global expansion as the country’s private space industry continues to gather momentum.",
+      "url": "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund",
+      "source": "YourStory",
+      "date": "2026-11-20",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-20",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-20",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by…",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge AI",
+      "date": "2026-11-19",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "source": "The Verge AI",
+      "date": "2026-11-19",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-19",
+      "category": "Tech",
+      "region": "Global"
+    },
+    {
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
       "source": "TechCrunch AI",
       "date": "2026-11-19",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-18",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-18",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "title": "Meta’s Muse Charm might cost $300",
+      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and…",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
       "source": "The Verge AI",
-      "date": "2026-11-18",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-18",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "category": "General",
       "region": "Global"
     }

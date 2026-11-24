@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "items": [
     {
-      "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
-      "summary": "Early-stage funding led the investment mix. Mumbai overtook Bengaluru to become the city with the largest funding during the period.",
-      "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
-      "source": "YourStory",
-      "date": "2026-11-23",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "L&T Bags Contract to Deploy NVIDIA B300 GPUs in Chennai Data Centre",
-      "summary": "The customer and number of additional GPUs remain undisclosed, while the engagement is part of a planned 10,000-GPU cluster.",
-      "url": "https://analyticsindiamag.com/ai-news/lt-wins-large-order-to-deploy-additional-nvidia-b300-gpus-in-chennai",
-      "source": "Analytics India Magazine",
-      "date": "2026-11-23",
-      "category": "Tech",
-      "region": "India"
-    },
-    {
-      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the…",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest…",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
       "source": "MIT Technology Review",
-      "date": "2026-11-23",
-      "category": "Tech",
+      "date": "2026-11-24",
+      "category": "General",
       "region": "Global"
     },
     {
-      "title": "Log out after using WhatsApp Web to prevent account hijacking: MHA advises users",
-      "summary": "According to an advisory issued by the National Cybercrime Threat Analytics Unit of the Indian Cyber Crime Coordination Centre, active WhatsApp Web sessions could be misused to access private messages, impersonate…",
-      "url": "https://yourstory.com/2026/11/mha-warns-whatsapp-web-users-of-account-hijacking-advises-logging-out-after-every-session",
-      "source": "YourStory",
-      "date": "2026-11-23",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "MHA issues advisory on WhatsApp Web sessions to prevent ‘unauthorized access’",
-      "summary": "The MHA has issued an advisory warning of WhatsApp Web security risks ahead of DoT's SIM-binding mandate. The advisory gained attention amid unverified claims of espionage targeting defence officials. The post MHA…",
-      "url": "https://www.medianama.com/2026/11/223-mha-advisory-whatsapp-web-unauthorized-access/",
+      "title": "NSE & BSE limit algorithmic trading to ‘tech-savvy’ traders with static IP address",
+      "summary": "SEBI's definition of a 'tech-savvy' trader, however, seems to be narrow and leaves some concerns unaddressed. The post NSE & BSE limit algorithmic trading to ‘tech-savvy’ traders with static IP address appeared first on…",
+      "url": "https://www.medianama.com/2026/11/223-nse-bse-algorithmic-trading-tech-savvy-traders-static-ip-address/",
       "source": "MediaNama",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Haleon Puts People and Judgement at Heart of Data, AI Transformation at Cypher 2026",
-      "summary": "Richard Moule and Sharmila Senthilraja share how capability, confidence, and accountable decision-making can help organisations move from AI deployment to",
-      "url": "https://analyticsindiamag.com/ai-highlights/haleon-puts-people-and-judgement-at-heart-of-data-ai-transformation-at-cypher-2026",
+      "title": "As Sarvam launches a dictation API, here are the key challenges with voice AI",
+      "summary": "Sarvam has launched Dictate, an API that combines speech recognition and transcript editing to enable voice typing in English and 22 Indian languages. It costs Rs 0.50 per minute of audio. The post As Sarvam launches a…",
+      "url": "https://www.medianama.com/2026/11/223-sarvam-dictation-api-challenges-voice-ai/",
+      "source": "MediaNama",
+      "date": "2026-11-24",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Fintech startup Vegapay to raise Rs 38.4 Cr in Series A funding round led by Prosus",
+      "summary": "The round will also see participation from existing investors Elevation Capital, Vertex Ventures and Eximius Ventures.",
+      "url": "https://yourstory.com/2026/11/vegapay-to-raise-rs-384-cr-series-a-funding-led-by-prosus",
+      "source": "YourStory",
+      "date": "2026-11-24",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "CrowdStrike to Buy Zscaler for $44 Bn as AI Raises Stakes for Cyber Defence",
+      "summary": "The deal will combine endpoint and network security businesses, giving CrowdStrike access to Zscaler's customer base and expanding its presence in enterprise",
+      "url": "https://analyticsindiamag.com/ai-news/crowdstrike-to-buy-zscaler-for-44-billion-as-ai-raises-stakes-for-cyber-defence",
       "source": "Analytics India Magazine",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials…",
-      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "title": "GalaxEye Awards Bellatrix Propulsion Contract For 30 Satellites",
+      "summary": "Bengaluru-based spacetech startup GalaxEye has awarded Bellatrix Aerospace a multi-year contract to supply propulsion systems for its next 30 Drishti…",
+      "url": "https://inc42.com/buzz/galaxeye-awards-bellatrix-propulsion-contract-for-30-satellites/",
+      "source": "Inc42",
+      "date": "2026-11-24",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Data centers are getting their own natural gas power plants",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to…",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
       "source": "MIT Technology Review",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Meta Muse can do your Black Friday shopping at Walmart",
-      "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
       "source": "The Verge AI",
-      "date": "2026-11-23",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "source": "TechCrunch AI",
       "date": "2026-11-23",
       "category": "Tech",
       "region": "Global"
     },
     {
-      "title": "We haven’t seen the last of the major tech outages",
-      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are…",
-      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
       "source": "The Verge AI",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-22",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened.…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "source": "The Verge AI",
+      "date": "2026-11-23",
       "category": "General",
       "region": "Global"
     },
     {
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "source": "TechCrunch AI",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-23",
       "category": "General",
       "region": "Global"
     }

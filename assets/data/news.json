@@ -1,50 +1,95 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "items": [
     {
-      "title": "Threatened by SaaSpocalypse, 9 Bets Defined Indian IT’s AI Strategy in 2026",
-      "summary": "From TCS and Anthropic to Wipro and ServiceNow, nine alliances show how Indian IT firms are positioning themselves across the AI value chain.",
-      "url": "https://analyticsindiamag.com/it-services/threatened-by-saaspocalypse-9-bets-defined-indian-its-ai-strategy-in-2026",
+      "title": "What’s next for Kalyan Krishnamurthy after Flipkart? 5 possible paths",
+      "summary": "From building a startup and backing founders to running another company, joining a board or advising the government, Kalyan Krishnamurthy has several paths open after nearly a decade at Flipkart’s helm.",
+      "url": "https://yourstory.com/2026/11/whats-next-for-kalyan-krishnamurthy-after-flipkart-5-possible-paths",
+      "source": "YourStory",
+      "date": "2026-11-27",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Jio launches and takes down astrology platform within a day",
+      "summary": "Amidst AstroTalk becoming unavailable on Apple's app store, Jio launched an AI-powered astrology platform on Nov 26 and took it down after a few hours, saying that the live website was just a \"demo survey\". The post Jio…",
+      "url": "https://www.medianama.com/2026/11/223-jio-takes-down-ai-astrology-platform/",
+      "source": "MediaNama",
+      "date": "2026-11-27",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Anthropic Ditches Python for Rust in Messages API, Cuts CPU Usage by 70% and Memory by Over 80%",
+      "summary": "Anthropic said Python introduced computational overhead at each stage through object creation, memory management and the transfer of work between tasks.",
+      "url": "https://analyticsindiamag.com/ai-news/anthropic-ditches-python-for-rust-in-messages-api-cuts-cpu-usage-by-70-and-memory-by-over-80",
       "source": "Analytics India Magazine",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
+      "category": "Tech",
+      "region": "India"
+    },
+    {
+      "title": "Masters’ Union hit by widespread job cuts, employees say",
+      "summary": "Masters’ Union layoffs are estimated to have affected over 350 employees, disproportionately impacting sales staff and including recent hires, according to sources.",
+      "url": "https://yourstory.com/2026/11/masters-union-hit-widespread-job-cuts-employees-say",
+      "source": "YourStory",
+      "date": "2026-11-27",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Startup news and updates: daily roundup (November 26, 2026)",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, November 26, 2026.",
-      "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-26-2026",
-      "source": "YourStory",
-      "date": "2026-11-26",
+      "title": "StockGro Signs MoU With Emirates NBD To Tap UAE’s Growing Investor Base",
+      "summary": "Bengaluru-based stock market research and advisory platform StockGro has signed a memorandum of understanding (MoU) with Dubai-headquartered banking group Emirates…",
+      "url": "https://inc42.com/buzz/stockgro-signs-mou-with-emirates-nbd-to-tap-uaes-growing-investor-base/",
+      "source": "Inc42",
+      "date": "2026-11-27",
       "category": "General",
       "region": "India"
     },
     {
-      "title": "Agnikul’s rocket ambitions gather pace, but commercial revenue yet to take off",
-      "summary": "Agnikul is investing heavily in its launch ambitions and attracting fresh funding, but, with no operating revenue yet, commercialisation remains its biggest test.",
-      "url": "https://yourstory.com/2026/11/agnikuls-rocket-ambitions-gather-pace-but-commercial-revenue-is-yet-to-take-off",
-      "source": "YourStory",
-      "date": "2026-11-26",
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition…",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-27",
       "category": "General",
-      "region": "India"
+      "region": "Global"
     },
     {
-      "title": "From local roots to national reach: How three Rajasthan startups are scaling beyond the state",
-      "summary": "At TechSparks 2026, founders of ChurningMind, SafeSpace Personal Wellness, and HNNOIX shared how they are taking solutions built for farmers, students, and telecom networks from Rajasthan to national and global markets.",
-      "url": "https://yourstory.com/2026/11/from-local-roots-national-reach-three-rajasthan-startups-scaling-beyond-state",
-      "source": "YourStory",
-      "date": "2026-11-26",
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand.…",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-27",
       "category": "General",
-      "region": "India"
+      "region": "Global"
     },
     {
-      "title": "Vegapay raises $10M in Series A round co-led by Vertex Ventures, Prosus",
-      "summary": "Vegapay raises $10 million in a Series A round co-led by Vertex Ventures and Prosus to expand its Credit Line on UPI offerings, launch secured credit products and strengthen its banking technology platform.",
-      "url": "https://yourstory.com/2026/11/vegapay-raises-10m-in-series-a-round-co-led-by-vertex-ventures-prosus",
-      "source": "YourStory",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch AI",
       "date": "2026-11-26",
       "category": "General",
-      "region": "India"
+      "region": "Global"
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-26",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost…",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-26",
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "The next generation of bionic hands is here—and they can feel",
@@ -61,51 +106,6 @@
       "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
       "source": "The Verge AI",
       "date": "2026-11-26",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-25",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users.…",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "source": "The Verge AI",
-      "date": "2026-11-25",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-25",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-25",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-25",
       "category": "General",
       "region": "Global"
     }

@@ -1,50 +1,68 @@
 {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "items": [
     {
-      "title": "What’s next for Kalyan Krishnamurthy after Flipkart? 5 possible paths",
-      "summary": "From building a startup and backing founders to running another company, joining a board or advising the government, Kalyan Krishnamurthy has several paths open after nearly a decade at Flipkart’s helm.",
-      "url": "https://yourstory.com/2026/11/whats-next-for-kalyan-krishnamurthy-after-flipkart-5-possible-paths",
-      "source": "YourStory",
-      "date": "2026-11-27",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Jio launches and takes down astrology platform within a day",
-      "summary": "Amidst AstroTalk becoming unavailable on Apple's app store, Jio launched an AI-powered astrology platform on Nov 26 and took it down after a few hours, saying that the live website was just a \"demo survey\". The post Jio…",
-      "url": "https://www.medianama.com/2026/11/223-jio-takes-down-ai-astrology-platform/",
-      "source": "MediaNama",
-      "date": "2026-11-27",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "Anthropic Ditches Python for Rust in Messages API, Cuts CPU Usage by 70% and Memory by Over 80%",
-      "summary": "Anthropic said Python introduced computational overhead at each stage through object creation, memory management and the transfer of work between tasks.",
-      "url": "https://analyticsindiamag.com/ai-news/anthropic-ditches-python-for-rust-in-messages-api-cuts-cpu-usage-by-70-and-memory-by-over-80",
-      "source": "Analytics India Magazine",
-      "date": "2026-11-27",
-      "category": "Tech",
-      "region": "India"
-    },
-    {
-      "title": "Masters’ Union hit by widespread job cuts, employees say",
-      "summary": "Masters’ Union layoffs are estimated to have affected over 350 employees, disproportionately impacting sales staff and including recent hires, according to sources.",
-      "url": "https://yourstory.com/2026/11/masters-union-hit-widespread-job-cuts-employees-say",
-      "source": "YourStory",
-      "date": "2026-11-27",
-      "category": "General",
-      "region": "India"
-    },
-    {
-      "title": "StockGro Signs MoU With Emirates NBD To Tap UAE’s Growing Investor Base",
-      "summary": "Bengaluru-based stock market research and advisory platform StockGro has signed a memorandum of understanding (MoU) with Dubai-headquartered banking group Emirates…",
-      "url": "https://inc42.com/buzz/stockgro-signs-mou-with-emirates-nbd-to-tap-uaes-growing-investor-base/",
+      "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+      "summary": "For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to…",
+      "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
       "source": "Inc42",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "category": "General",
       "region": "India"
+    },
+    {
+      "title": "Fintech Startups To Watch: Startups That Caught Our Eye In November",
+      "summary": "It was a stormy November for the Indian fintech sector. Even as the Diwali season brought a surge in digital…",
+      "url": "https://inc42.com/startups/fintech-startups-to-watch-startups-that-caught-our-eye-in-november/",
+      "source": "Inc42",
+      "date": "2026-11-28",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "How Adi Vaani's AI Tribal Language Platform is Preserving Bharat's Indigenous Voices",
+      "summary": "Started last year, the Adi Vaani project's AI-powered translation platform serves tribal languages that are often overlooked.",
+      "url": "https://analyticsindiamag.com/ai-features/adivaani-builds-ai-for-tribal-languages-from-community-written-data",
+      "source": "Analytics India Magazine",
+      "date": "2026-11-28",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Personal AI Agents Are Coming: Who Owns The Customer Now?",
+      "summary": "Next time you want to order groceries, book a restaurant, or check your bank balance, you may not have to…",
+      "url": "https://inc42.com/features/personal-ai-agents-are-coming-who-owns-the-customer-now/",
+      "source": "Inc42",
+      "date": "2026-11-28",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+      "summary": "The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut as…",
+      "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
+      "source": "Inc42",
+      "date": "2026-11-28",
+      "category": "General",
+      "region": "India"
+    },
+    {
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping…",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge AI",
+      "date": "2026-11-27",
+      "category": "General",
+      "region": "Global"
+    },
+    {
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology…",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-27",
+      "category": "General",
+      "region": "Global"
     },
     {
       "title": "Our 2027 Innovators Under 35 competition is now open",
@@ -87,24 +105,6 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost…",
       "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
       "source": "MIT Technology Review",
-      "date": "2026-11-26",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "The next generation of bionic hands is here—and they can feel",
-      "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For…",
-      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-26",
-      "category": "General",
-      "region": "Global"
-    },
-    {
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs…",
-      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "source": "The Verge AI",
       "date": "2026-11-26",
       "category": "General",
       "region": "Global"
